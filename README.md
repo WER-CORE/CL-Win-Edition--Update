@@ -11,7 +11,7 @@
 
 **Сучасний, оптимізований лаунчер для Minecraft: Java Edition. Свій до свого по своє! 🇺🇦**
 
-[📥 Завантажити останню версію](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest) • [💻 Source Code (Github тимчасово відсутня)](https://github.com/WER-CORE/CL-OpenSource) • [🐛 Повідомити про баг](https://github.com/WER-CORE/CL-Win-Edition--Update/issues) • [💬 Discord](https://discord.gg/RhyZjACs2U)
+[📥 Завантажити останню версію](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest) • [💻 Source Code](https://github.com/WER-CORE/CL-OpenSource) • [🐛 Повідомити про баг](https://github.com/WER-CORE/CL-Win-Edition--Update/issues) • [💬 Discord](https://discord.gg/RhyZjACs2U)
 
 </div>
 
