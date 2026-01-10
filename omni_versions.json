@@ -19,4 +19,389 @@
     "url": "https://vault.omniarchive.uk/archive/java/client-preclassic/rd-161348-launcher.jar",
     "category": "Pre-Classic"
   },
+  {
+    "Name": "c0.0.11a-launcher",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.11a-launcher.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.12a_03-200018",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.12a_03-200018.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.13a-launcher",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.13a-launcher.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.13a_03-launcher",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.13a_03-launcher.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.13a_03",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.13a_03.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.14a_08",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.14a_08.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.15a-05311904",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.15a-05311904.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.16a_02-081047",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.16a_02-081047.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.17a-2014",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.17a-2014.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.18a_02",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.18a_02.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.19a_04",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.19a_04.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.19a_06-0137",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.19a_06-0137.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.20a_01",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.20a_01.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.20a_02",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.20a_02.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.21a-2008",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.21a-2008.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.22a_05",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.22a_05.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.0.23a_01",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.0.23a_01.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.24_st_03",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.24_st_03.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.25_05_st",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.25_05_st.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.27_st",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.27_st.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.28_01",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.28_01.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.29",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.29.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.29_01",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.29_01.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.29_02",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.29_02.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.30-c-1900-renew",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.30-c-1900-renew.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.30-c-1900",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.30-c-1900.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "c0.30-s-1858",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-classic/c0.30-s-1858.jar",
+    "Category": "Classic"
+  },
+  {
+    "Name": "in-20091223-1459",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20091223-1459.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20091231-2255",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20091231-2255.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100104-2258",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100104-2258.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100110",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100110.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100124-2310",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100124-2310.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100125",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100125.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100128-2304",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100128-2304.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100129-1452",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100129-1452.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100130",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100130.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100131-2244",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100131-2244.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100201-0025",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100201-0025.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100201-2227",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100201-2227.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100202-2330",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100202-2330.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100206-2103",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100206-2103.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100207-1101",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100207-1101.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100207-1703",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100207-1703.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100212-1210",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100212-1210.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100212-1622",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100212-1622.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100213",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100213.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100214",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100214.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100218-0016",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100218-0016.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100219",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100219.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "in-20100223",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-indev/in-20100223.jar",
+    "Category": "Indev"
+  },
+  {
+    "Name": "inf-20100227-1433",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100227-1433.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100313",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100313.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100316",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100316.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100320",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100320.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100321-1857",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100321-1857.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100325-1640",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100325-1640.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100327",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100327.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100330-1611_modified",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100330-1611_modified.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100413-1953",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100413-1953.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100414",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100414.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100415",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100415.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100420",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100420.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100607",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100607.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100608",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100608.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100611",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100611.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100615",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100615.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100616-1808",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100616-1808.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100617-1205",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100617-1205.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100617-1531",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100617-1531.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100618",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100618.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100624",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100624.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100625-0922",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100625-0922.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100625-1917",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100625-1917.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100627",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100627.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100629",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100629.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100630-1340",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100630-1340.jar",
+    "Category": "Infdev"
+  },
+  {
+    "Name": "inf-20100630-1835",
+    "DownloadUrl": "https://vault.omniarchive.uk/archive/java/client-infdev/inf-20100630-1835.jar",
+    "Category": "Infdev"
+  }
 ]
