@@ -35,7 +35,7 @@
   <img src="https://github.com/user-attachments/assets/c2d3ded4-f0fa-4740-a21a-b11e8739a8c2" alt="Main Menu" width="800"/>
   <br><br>
   <img src="https://github.com/user-attachments/assets/145abf20-8f28-4ffa-9495-217e391818af" alt="Settings Menu" width="800"/>
-  <p><i>Скріншоти версії 0.6.5.5B</i></p>
+  <p><i>Скріншоти версії 0.7.0.7B</i></p>
 </div>
 
 ---
