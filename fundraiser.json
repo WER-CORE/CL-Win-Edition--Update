@@ -1,14 +1,14 @@
 {
   "isActive": true,
   "title": "ГЕРОЇ РАЙОНІВ",
-  "imageUrl": "//res2.weblium.site/res/65116bdf3be6d800178f8657/68aaee6e8532b149d1554b25_optimized", 
+  "imageUrl": "https://res2.weblium.site/res/65116bdf3be6d800178f8657/68aaee6e8532b149d1554b25_optimized", 
   "fundUrl": "https://www.liqpay.ua/uk/checkout/checkout_1771618209303534_24052452_INyeL05yxNkiLb0sWzPO",
   "detailsUrl": "https://heroes.ab3.support/"
-},
+}
 {
   "isActive": true,
   "title": "ЩОМІСЯЧНА ПІДПИСКА",
-  "imageUrl": "//res2.weblium.site/res/65116bdf3be6d800178f8657/68011124333bcb0caf376930_optimized", 
+  "imageUrl": "https://res2.weblium.site/res/65116bdf3be6d800178f8657/68011124333bcb0caf376930_optimized", 
   "fundUrl": "https://base.monobank.ua/ab3support",
   "detailsUrl": "https://ab3.support/shchomisiachna-pidpyska"
 }
