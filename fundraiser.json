@@ -1,6 +1,13 @@
 [
   {
     "isActive": true,
+    "title": "Це має значення",
+    "imageUrl": "https://res2.weblium.site/res/65116bdf3be6d800178f8657/699da56a66529423dd1c2725_optimized", 
+    "fundUrl": "https://send.monobank.ua/jar/2cJvZE5w3f",
+    "detailsUrl": "https://ab3.support/it-matters"
+  },
+  {
+    "isActive": true,
     "title": "ГЕРОЇ РАЙОНІВ",
     "imageUrl": "https://res2.weblium.site/res/65116bdf3be6d800178f8657/68aaee6e8532b149d1554b25_optimized", 
     "fundUrl": "https://next.privat24.ua/env/donate/4e18f165",
