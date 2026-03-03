@@ -45,27 +45,27 @@
 All stable releases are published in the **Releases** tab of this repository.
 
 1. Go to the [**Releases**](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest) tab (to the right).
-2. Завантажте останній файл `CLSetup.exe` (або архів `.zip`).
-3. Запустіть файл.
+2. Download the last file `CLSetup.exe` (or a.zip archive).
+3. Launch the file.
 
 > [!WARNING]
 > **Windows SmartScreen:**
-> Якщо Windows показує попередження "System protected your PC" (Система захистила ваш ПК), натисніть **"More info" (Детальніше) -> "Run anyway" (Виконати в будь-якому разі)**.
-> _Це нормальна поведінка для нових програм, які ще не мають дорогого цифрового підпису._
+> If Windows gives you a popup "System protected your PC", press **"More info" -> "Run anyway"**.
+> _This is the normal behavior for new apps that do not yet have an expensive digital signature_
 
 ---
 
-## 🛠 Системні вимоги
+## 🛠 System requirements
 
-| Компонент   | Мінімальні / Рекомендовані                                                                             |
+| Component   | Minimal / Recommended                                                                                  |
 | :---------- | :----------------------------------------------------------------------------------------------------- |
-| **ОС**      | Windows 10/11 (x64) \\| Windows 7/8/8.1 (x86)\* |
-| **Java**    | Java 17 або новіше (автоматично завантажується для нових версій)                    |
+| **OS**      | Windows 10/11 (x64) \\| Windows 7/8/8.1 (x86)\* |
+| **Java**    | Java 17 or newer (Java is automatically downloaded in the newer versions)           |
 | **Runtime** | Microsoft .NET 8.0 Desktop Runtime                                     |
 
 ---
 
-## 📜 Credits & Licenses / Подяки та Ліцензії
+## 📜 Credits & Licenses
 
 This project uses assets and libraries from various sources. We are grateful to the creators for their work.
 
@@ -74,24 +74,24 @@ This project uses assets and libraries from various sources. We are grateful to 
 - **Google Fonts & Material Icons** (Apache License 2.0) © Google.
 - **WPF UI & Fluent System Icons** (MIT License) © Microsoft Corporation.
 
-### Mod Loaders & Services
+### Modloaders & Services
 
 - **NeoForge, Fabric, Quilt, Forge, OptiFine, LiteLoader** logos are property of their respective owners and used for identification.
 - **CurseForge** & **Modrinth** icons are used to indicate mod sources.
 
-### General Disclaimer / Загальна інформація
+### General Disclaimer
 
 - **Usage of Libraries:** All third-party libraries and assets are used strictly for functionality.
 - **Monetization:** The launcher is free. We offer paid server promotion (Partners) to cover development costs, which does not restrict end-user functionality.
 
 ---
 
-## 📞 Підтримка та контакти
+## 📞 Support & Contact
 
-Якщо у вас виникли проблеми або є пропозиції:
+If you encountered a bug/problem or you have suggestions:
 
-- 🐛 **Баг-репорт:** [Issues](https://github.com/WER-CORE/CL-Win-Edition--Update/issues)
-- 💬 **Спільнота:** [Discord Server](https://discord.gg/RhyZjACs2U)
+- 🐛 **Bug reports:** [Issues](https://github.com/WER-CORE/CL-Win-Edition--Update/issues)
+- 💬 **Community:** [Discord Server](https://discord.gg/RhyZjACs2U)
 
 ---
 
