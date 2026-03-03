@@ -3,42 +3,42 @@
     "Code": "uk_UA",
     "Name": "Українська",
     "FlagUrl": "https://flagcdn.com/w40/ua.png",
-    "DownloadUrl": "",
+    "DownloadUrl": "https://raw.githubusercontent.com/WER-CORE/CL-Win-Edition--Update/main/Lang/uk_UA/uk_UA.json",
     "Progress": 100
   },
   {
     "Code": "en_US",
     "Name": "English",
     "FlagUrl": "https://flagcdn.com/w40/us.png",
-    "DownloadUrl": "",
+    "DownloadUrl": "https://raw.githubusercontent.com/WER-CORE/CL-Win-Edition--Update/main/Lang/en_US/en_US.json",
     "Progress": 0
   },
   {
     "Code": "pl_PL",
     "Name": "Polski",
     "FlagUrl": "https://flagcdn.com/w40/pl.png",
-    "DownloadUrl": "",
+    "DownloadUrl": "https://raw.githubusercontent.com/WER-CORE/CL-Win-Edition--Update/main/Lang/pl_PL/pl_PL.json",
     "Progress": 0
   },
   {
     "Code": "cs_CZ",
     "Name": "Čeština",
     "FlagUrl": "https://flagcdn.com/w40/cz.png",
-    "DownloadUrl": "",
+    "DownloadUrl": "https://raw.githubusercontent.com/WER-CORE/CL-Win-Edition--Update/main/Lang/cs_CZ/cs_CZ.json",
     "Progress": 0
   },
   {
     "Code": "fr_FR",
     "Name": "Français",
     "FlagUrl": "https://flagcdn.com/w40/fr.png",
-    "DownloadUrl": "",
+    "DownloadUrl": "https://raw.githubusercontent.com/WER-CORE/CL-Win-Edition--Update/main/Lang/fr_FR/fr_FR.json",
     "Progress": 0
   },
   {
     "Code": "be_BY",
     "Name": "Беларуская",
     "FlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg/40px-Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg.png",
-    "DownloadUrl": "",
+    "DownloadUrl": "https://raw.githubusercontent.com/WER-CORE/CL-Win-Edition--Update/main/Lang/be_BY/be_BY.json",
     "Progress": 0
   }
 ]
