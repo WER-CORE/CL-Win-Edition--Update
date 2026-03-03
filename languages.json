@@ -1,0 +1,44 @@
+[
+  {
+    "Code": "uk_UA",
+    "Name": "Українська",
+    "FlagUrl": "https://flagcdn.com/w40/ua.png",
+    "DownloadUrl": "",
+    "Progress": 100
+  },
+  {
+    "Code": "en_US",
+    "Name": "English",
+    "FlagUrl": "https://flagcdn.com/w40/us.png",
+    "DownloadUrl": "",
+    "Progress": 0
+  },
+  {
+    "Code": "pl_PL",
+    "Name": "Polski",
+    "FlagUrl": "https://flagcdn.com/w40/pl.png",
+    "DownloadUrl": "",
+    "Progress": 0
+  },
+  {
+    "Code": "cs_CZ",
+    "Name": "Čeština",
+    "FlagUrl": "https://flagcdn.com/w40/cz.png",
+    "DownloadUrl": "",
+    "Progress": 0
+  },
+  {
+    "Code": "fr_FR",
+    "Name": "Français",
+    "FlagUrl": "https://flagcdn.com/w40/fr.png",
+    "DownloadUrl": "",
+    "Progress": 0
+  },
+  {
+    "Code": "be_BY",
+    "Name": "Беларуская",
+    "FlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg/40px-Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg.png",
+    "DownloadUrl": "",
+    "Progress": 0
+  }
+]
