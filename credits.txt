@@ -1,0 +1,21 @@
+ГОЛОВНИЙ РОЗРОБНИК (MAIN DEVELOPER)
+WER_Clegendary.
+
+ДИЗАЙН (DESIGN)
+Homka;
+WER_Clegendary.
+
+РОЗРОБНИК ВЕБ-САЙТУ (WEBSITE DEVELOPER)
+hazeikyn(PAST DEVELOPER / МИНУЛИЙ РОЗРОБНИК);
+Cat (CURRENT DEVELOPER / ТЕПЕРЕШНІЙ РОЗРОБНИК);
+
+ПЕРЕКЛАДАЧІ (TRANSLATORS / AWESOME COMMUNITY)
+🇬🇧 English:
+🇵🇱 Polski:
+🇫🇷 France:
+🇨🇿 Czechia: 
+БЧБ Беларуская:
+
+ОСОБЛИВА ПОДЯКА (SPECIAL THANKS)
+Усій нашій неймовірній спільноті! Величезне дякую кожному, хто повідомляв про баги, пропонував нові фічі та просто підтримував нас. Без ваших відгуків та ідей CL Launcher не був би таким крутим! Ви — серце цього проєкту. ❤️
+(To our amazing community! Huge thanks to everyone who reported bugs, suggested new features, and supported us. This launcher wouldn't be so awesome without your feedback. You are the heart of this project! ❤️)
