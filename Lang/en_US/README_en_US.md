@@ -1,4 +1,14 @@
 <div align="center">
+  🌍 <b>Читати іншими мовами:</b><br>
+  <a href="/README_Translate/README_en_US.md">🇬🇧 English</a> | 
+  <a href="README.md">🇺🇦 Українська</a> |
+  🇵🇱 Polski (поки що відсутня, <a href="https://uk.crowdin.com/project/clegendary-launcher">допоможіть з перекладом</a>) | 
+⬜🟥⬜ Беларуская (поки що відсутня, <a href="https://uk.crowdin.com/project/clegendary-launcher">допоможіть з перекладом</a>) |
+  🇨🇿 Čeština (поки що відсутня, <a href="https://uk.crowdin.com/project/clegendary-launcher">допоможіть з перекладом</a>) | 
+  🇫🇷 Français (поки що відсутня, <a href="https://uk.crowdin.com/project/clegendary-launcher">допоможіть з перекладом</a>)
+</div>
+
+<div align="center">
 
 # CL-Launcher | CL (Clegendary Launcher)
 
@@ -19,10 +29,7 @@
 ---
 
 > [!NOTE]
-> **Repository Status:** This repository is used for distributing application updates and releases.
-> 👨‍💻 **Developers:** The open-source version of the project is available here: [**CL-OpenSource**](https://github.com/WER-CORE/CL-OpenSource).
->
->
+> _(Примітка: Цей репозиторій використовується для розповсюдження оновлень. Відкритий вихідний код доступний у репозиторії [**CL-OpenSource**](https://github.com/WER-CORE/CL-OpenSource))_
 
 ## ✨ Key features
 
