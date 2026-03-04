@@ -28,10 +28,7 @@
 ---
 
 > [!NOTE]
-> **Repository Status:** This repository is used for distributing application updates and releases.
-> 👨‍💻 **Developers:** The open-source version of the project is available here: [**CL-OpenSource**](https://github.com/WER-CORE/CL-OpenSource).
->
-> *(Примітка: Цей репозиторій використовується для розповсюдження оновлень. Відкритий вихідний код доступний у репозиторії CL-OpenSource.)*
+> *(Примітка: Цей репозиторій використовується для розповсюдження оновлень. Відкритий вихідний код доступний у репозиторії [**CL-OpenSource**](https://github.com/WER-CORE/CL-OpenSource))*
 
 ## ✨ Основні можливості
 
