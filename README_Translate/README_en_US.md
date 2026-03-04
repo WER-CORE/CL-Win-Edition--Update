@@ -1,4 +1,13 @@
 <div align="center">
+  🌍 <b>Read this in other languages:</b><br>
+  <a href="README.md">🇬🇧 English</a> | 
+  <a href="README-uk.md">🇺🇦 Українська</a> | 
+  🇵🇱 Polski (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us translate</a>) | 
+  ⬜🟥⬜ Беларуская (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us translate</a>) |
+  🇨🇿 Čeština (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us translate</a>) | 
+  🇫🇷 Français (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us translate</a>)
+</div>
+<div align="center">
 
 # CL-Launcher | CL (Clegendary Launcher)
 
