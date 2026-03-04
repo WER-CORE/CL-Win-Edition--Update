@@ -8,6 +8,8 @@
   🇫🇷 Français (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>)
 </div>
 
+<div align="center">
+
 # CL-Launcher | CL (Clegendary Launcher)
 
 ### Windows Edition
@@ -27,14 +29,11 @@
 ---
 
 > [!NOTE]
-> **Repository Status:** This repository is used for distributing application updates and releases.
-> 👨‍💻 **Developers:** The open-source version of the project is available here: [**CL-OpenSource**](https://github.com/WER-CORE/CL-OpenSource).
->
->
+> _(Note: This repository is used for distributing updates. The source of this project is available in this repository: [**CL-OpenSource**](https://github.com/WER-CORE/CL-OpenSource))_
 
 ## ✨ Key features
 
-- 🔒 **Safe authorization.:** Full support for **Microsoft accounts** (Xbox Live) with game ownership verification.
+- 🔒 **Safe authorization:** Full support for **Microsoft accounts** (Xbox Live) with game ownership verification.
 - ⚡ **Optimization:** Light and fast, uses the least system resources it can.
 - 📦 **Content managing:** User-friendly mod/instance downloader + manager, and client updater.
 - 🎨 **Customization:** Theme support, UI customization and transparency (Acrylic/Mica).
