@@ -10,8 +10,8 @@ hazeikyn(PAST DEVELOPER / МИНУЛИЙ РОЗРОБНИК);
 Cat (CURRENT DEVELOPER / ТЕПЕРЕШНІЙ РОЗРОБНИК);
 
 ПЕРЕКЛАДАЧІ (TRANSLATORS / AWESOME COMMUNITY)
-🇬🇧 English: MacToxa, Кабанчік
-🇵🇱 Polski:
+🇬🇧 English: MacToxa, Кабанчік.
+🇵🇱 Polski: NeON.
 🇫🇷 France:
 🇨🇿 Czechia: 
 БЧБ Беларуская:
