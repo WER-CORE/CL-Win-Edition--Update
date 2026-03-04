@@ -1,5 +1,5 @@
 <div align="center">
-  🌍 <b>Читати іншими мовами:</b><br>
+  🌍 <b>Read in other languages::</b><br>
   <a href="/README_Translate/README_en_US.md">🇬🇧 English</a> | 
   <a href="README.md">🇺🇦 Українська</a> |
   🇵🇱 Polski (поки що відсутня, <a href="https://uk.crowdin.com/project/clegendary-launcher">допоможіть з перекладом</a>) | 
@@ -29,7 +29,7 @@
 ---
 
 > [!NOTE]
-> _(Примітка: Цей репозиторій використовується для розповсюдження оновлень. Відкритий вихідний код доступний у репозиторії [**CL-OpenSource**](https://github.com/WER-CORE/CL-OpenSource))_
+> _(Note: This repository is used for distributing updates. The source of this project is available in this repository: [**CL-OpenSource**](https://github.com/WER-CORE/CL-OpenSource))_
 
 ## ✨ Key features
 
