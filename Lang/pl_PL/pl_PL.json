@@ -1,32 +1,32 @@
 {
   "LoadScreen": {
-    "LoadingText": "Завантаження ресурсів...",
-    "DiscordRPC": "У віконці завантаження",
+    "LoadingText": "Ładowanie zasobów...",
+    "DiscordRPC": "Na ekranie lądującym",
     "Errors": {
-      "UpdateFailTitle": "Помилка оновлення",
-      "UpdateOfflineAsk": "Ех, не вийшло перевірити оновлення. Спробувати офлайн?",
-      "CriticalCrashTitle": "Критичний збій",
-      "CriticalCrashMessage": "Ой! Критична помилка запуску.\nЯ зберегла деталі у файл {0}.\n\nКоротко: {1}"
+      "UpdateFailTitle": "Błąd aktualizacji",
+      "UpdateOfflineAsk": "Uh, nie udało się sprawdzić aktualizacji.\nSpróbować offline?",
+      "CriticalCrashTitle": "Błąd krytyczny",
+      "CriticalCrashMessage": "Oj! Krytyczny błąd uruchomienia.\nZapisałam detale w pliku {0}.\n\nKrótko: {1}"
     },
     "RandomPhrases": {
-      "Phrase1": "Перша зелена травичка пробивається крізь землю...",
-      "Phrase2": "Заварюємо свіжий фруктовий чай...",
-      "Phrase3": "Homka саджає перші весняні квіти...",
-      "Phrase4": "Deeplay фотографує цвітіння сакур на камеру 🌸...",
-      "Phrase5": "Теплий весняний дощик стукає по вікнах...",
-      "Phrase6": "Час ховати зимові куртки далеко в шафу...",
-      "Phrase7": "Пахне свіжоскошеною травою та бузком...",
-      "Phrase8": "Дерева вкриваються ніжним білим цвітом...",
-      "Phrase9": "Данило готує мангал для перших шашликів...",
-      "Phrase10": "WER_Clegendary шукає ідеальне місце для пікніка...",
-      "Phrase11": "Природа нарешті прокидається за вікном...",
-      "Phrase12": "Мружимося від яскравого весняного сонечка...",
-      "Phrase13": "Пелюстки вишень кружляють у теплому повітрі...",
-      "Phrase14": "Час виходити на довгі вечірні прогулянки...",
-      "Phrase15": "Свіже весняне повітря надихає на пригоди...",
-      "Phrase16": "Готуємось до теплих травневих вихідних...",
-      "Phrase17": "Всі чекають на потепління (або вже садять картоплю)...",
-      "Phrase18": "Тепло на вулиці, сонячно на душі..."
+      "Phrase1": "Pierwsza zielona trawa wybija się z ziemi...",
+      "Phrase2": "Parzymy herbatę owocową...",
+      "Phrase3": "Homka sądzi pierwsze wiosenne kwiaty...",
+      "Phrase4": "Deeplay robi zdjęcia kwitnącej wiśni 🌸...",
+      "Phrase5": "Ciepły wiosenny deszczyk stuka po oknach...",
+      "Phrase6": "Nastał czas chować kurtki zimowe jak najdalej w szafę...",
+      "Phrase7": "Pachnie świeżo skoszoną trawą i arbuzem...",
+      "Phrase8": "Drzewa pokrywają się delikatnymi białymi kwiatkami...",
+      "Phrase9": "Danylo przygotowuje gryla dla pierwszych kiełbasek...",
+      "Phrase10": "WER_Clegendary szuka idealne miejsce pod piknik...",
+      "Phrase11": "Przyroda wreszcie budzi się za oknem...",
+      "Phrase12": "Mrużymy oczy od jasnego wiosennego słońca...",
+      "Phrase13": "Płatki wiśni wirują w ciepłym powietrzu...",
+      "Phrase14": "Czas na długie wieczorne spacery...",
+      "Phrase15": "Świeże wiosenne powietrze inspiruje na przygody...",
+      "Phrase16": "Przygotowujemy się do ciepłych majowych weekendów...",
+      "Phrase17": "Wszyscy czekają na ocieplenie (lub już sądzą ziemniaki)...",
+      "Phrase18": "Ciepło na polu, słonecznie na sercu..."
     }
   },
   "Sidebar": {
