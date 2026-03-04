@@ -11,14 +11,14 @@
     "Name": "English",
     "FlagUrl": "https://flagcdn.com/w40/us.png",
     "DownloadUrl": "https://raw.githubusercontent.com/WER-CORE/CL-Win-Edition--Update/main/Lang/en_US/en_US.json",
-    "Progress": 14
+    "Progress": 28
   },
   {
     "Code": "pl_PL",
     "Name": "Polski",
     "FlagUrl": "https://flagcdn.com/w40/pl.png",
     "DownloadUrl": "https://raw.githubusercontent.com/WER-CORE/CL-Win-Edition--Update/main/Lang/pl_PL/pl_PL.json",
-    "Progress": 0
+    "Progress": 10
   },
   {
     "Code": "cs_CZ",
