@@ -1,5 +1,5 @@
 <div align="center">
-  🌍 <b>Read in other languages::</b><br>
+  🌍 <b>Read in other languages:</b><br>
   <a href="/README_Translate/README_en_US.md">🇬🇧 English</a> | 
   <a href="README.md">🇺🇦 Українська</a> |
   🇵🇱 Polski (поки що відсутня, <a href="https://uk.crowdin.com/project/clegendary-launcher">допоможіть з перекладом</a>) | 
@@ -33,7 +33,7 @@
 
 ## ✨ Key features
 
-- 🔒 **Safe authorization.:** Full support for **Microsoft accounts** (Xbox Live) with game ownership verification.
+- 🔒 **Safe authorization:** Full support for **Microsoft accounts** (Xbox Live) with game ownership verification.
 - ⚡ **Optimization:** Light and fast, uses the least system resources it can.
 - 📦 **Content managing:** User-friendly mod/instance downloader + manager, and client updater.
 - 🎨 **Customization:** Theme support, UI customization and transparency (Acrylic/Mica).
