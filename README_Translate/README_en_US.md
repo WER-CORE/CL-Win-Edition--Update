@@ -1,13 +1,12 @@
 <div align="center">
-  🌍 <b>Read this in other languages:</b><br>
-  <a href="README.md">🇬🇧 English</a> | 
-  <a href="README-uk.md">🇺🇦 Українська</a> | 
-  🇵🇱 Polski (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us translate</a>) | 
-  ⬜🟥⬜ Беларуская (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us translate</a>) |
-  🇨🇿 Čeština (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us translate</a>) | 
-  🇫🇷 Français (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us translate</a>)
+  🌍 <b>Read in other languages:</b><br>
+  <a href="/README_Translate/README_en_US.md">🇬🇧 English</a> | 
+  <a href="README.md">🇺🇦 Українська</a> |
+  🇵🇱 Polski (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>) | 
+⬜🟥⬜ Беларуская (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>) |
+  🇨🇿 Čeština (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>) | 
+  🇫🇷 Français (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>)
 </div>
-<div align="center">
 
 # CL-Launcher | CL (Clegendary Launcher)
 
