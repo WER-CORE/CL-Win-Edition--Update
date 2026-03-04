@@ -1,4 +1,14 @@
 <div align="center">
+  🌍 <b>Читати іншими мовами:</b><br>
+  <a href="/README_Translate/README_en_US.md">🇬🇧 English</a> | 
+  <a href="README.md">🇺🇦 Українська</a> |
+  🇵🇱 Polski (поки що відсутня, <a href="https://uk.crowdin.com/project/clegendary-launcher">допоможіть з перекладом</a>) | 
+⬜🟥⬜ Беларуская (поки що відсутня, <a href="https://uk.crowdin.com/project/clegendary-launcher">допоможіть з перекладом</a>) |
+  🇨🇿 Čeština (поки що відсутня, <a href="https://uk.crowdin.com/project/clegendary-launcher">допоможіть з перекладом</a>) | 
+  🇫🇷 Français (поки що відсутня, <a href="https://uk.crowdin.com/project/clegendary-launcher">допоможіть з перекладом</a>)
+</div>
+
+<div align="center">
 
 # CL-Launcher | CL (Clegendary Launcher)
 ### Windows Edition
