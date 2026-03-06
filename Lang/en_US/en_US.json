@@ -119,6 +119,7 @@
     "ThemeCustom": "Custom",
     "Launcher": "Launcher",
     "LanguageTitle": "Language",
+    "HelpTranslate": "Як допомогти з перекладом?",
     "LanguageDesc": "Choose the launcher's language. The changes apply instantly.",
     "CloseLaunchTitle": "Determines if the launcher closes after the game's launch",
     "CloseLaunchDesc": "Uses up less resources, closing the menu after the game starts",
