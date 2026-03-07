@@ -2,10 +2,10 @@
   🌍 <b>Read in other languages:</b><br>
   <a href="/README_Translate/README_en_US.md">🇬🇧 English</a> | 
   <a href="README.md">🇺🇦 Українська</a> |
-  🇵🇱 Polski (поки що відсутня, <a href="https://uk.crowdin.com/project/clegendary-launcher">допоможіть з перекладом</a>) | 
-⬜🟥⬜ Беларуская (поки що відсутня, <a href="https://uk.crowdin.com/project/clegendary-launcher">допоможіть з перекладом</a>) |
-  🇨🇿 Čeština (поки що відсутня, <a href="https://uk.crowdin.com/project/clegendary-launcher">допоможіть з перекладом</a>) | 
-  🇫🇷 Français (поки що відсутня, <a href="https://uk.crowdin.com/project/clegendary-launcher">допоможіть з перекладом</a>)
+  🇵🇱 Polski (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>) | 
+⬜🟥⬜ Беларуская (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>) |
+  🇨🇿 Čeština (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>) | 
+  🇫🇷 Français (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>)
 </div>
 
 <div align="center">
