@@ -39,11 +39,11 @@
 * 🔄 **Автоматичні оновлення:** Лаунчер сам перевіряє та завантажує стабільні патчі.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c2d3ded4-f0fa-4740-a21a-b11e8739a8c2" alt="Main Menu" width="800"/>
-  <br><br>
-  <img src="https://github.com/user-attachments/assets/145abf20-8f28-4ffa-9495-217e391818af" alt="Settings Menu" width="800"/>
-  <p><i>Скріншоти версії 0.7.0.7B</i></p>
-</div>
+  <img width="750" height="438" alt="image" src="https://github.com/user-attachments/assets/2a9528bb-551c-4017-b26f-29d4d65fbf78" />
+  <img width="1200" height="678" alt="image" src="https://github.com/user-attachments/assets/8c6ad520-fe55-4aa8-89ba-aaef56c29a7b" />
+
+  <p><i>Інтерфейс версії 0.8.0.0B</i></p>
+</div>>
 
 ---
 
