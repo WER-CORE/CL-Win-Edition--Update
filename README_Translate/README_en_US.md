@@ -40,9 +40,10 @@
 - 🔄 **Automatic updates:** The launcher automatically checks and installs new stable releases.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c2d3ded4-f0fa-4740-a21a-b11e8739a8c2" alt="Main Menu" width="800"/><br><br>
-  <img src="https://github.com/user-attachments/assets/145abf20-8f28-4ffa-9495-217e391818af" alt="Settings Menu" width="800"/>
-  <p><i>Screenshots of the version 0.7.0.7B</i></p>
+  <img width="750" height="438" alt="image" src="https://github.com/user-attachments/assets/4595f05f-24e3-41a3-a1b6-3728f97722c8" />
+  <img width="1200" height="678" alt="image" src="https://github.com/user-attachments/assets/e06eb170-5153-4b5a-82ed-484332ad4a13" />
+
+  <p><i>Screenshots of the version 0.8.0.0B</i></p>
 </div>
 
 ---
