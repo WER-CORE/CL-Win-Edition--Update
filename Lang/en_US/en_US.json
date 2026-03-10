@@ -427,7 +427,7 @@
     "RestoreBtn": "Restore",
     "DeleteBtn": "🗑",
     "WorldNotFound": "World not found!",
-    "WorldRestoreLockError": "Не можу замінити файли світу. Можливо, гра ще запущена? Закрийте Minecraft.",
+    "WorldRestoreLockError": "I can't change world files. Maybe game is not launched? Close Minecraft.",
     "CreateError": "Помилка створення: {0}"
   },
   "Updater": {
