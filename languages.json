@@ -11,7 +11,7 @@
     "Name": "English",
     "FlagUrl": "https://flagcdn.com/w40/us.png",
     "DownloadUrl": "https://raw.githubusercontent.com/WER-CORE/CL-Win-Edition--Update/main/Lang/en_US/en_US.json",
-    "Progress": 49
+    "Progress": 58
   },
   {
     "Code": "pl_PL",
@@ -39,6 +39,6 @@
     "Name": "Беларуская",
     "FlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg/40px-Flag_of_Belarus_%281918%2C_1991%E2%80%931995%29.svg.png",
     "DownloadUrl": "https://raw.githubusercontent.com/WER-CORE/CL-Win-Edition--Update/main/Lang/be_BY/be_BY.json",
-    "Progress": 0
+    "Progress": 1
   }
 ]
