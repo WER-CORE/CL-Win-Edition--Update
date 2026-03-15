@@ -660,6 +660,7 @@
     "ModdedServers": "Модові",
     "Searching": "Bit-CL шукає сервери...",
     "AddServer": "Додати свій сервер",
+    "PageInfo": "Сторінка {0} з {1}",
     "PlayOnServer": "ГРАТИ НА СЕРВЕРІ",
     "Description": "Опис...",
     "ServerItemInfoTooltip": "Інформація про сервер",
