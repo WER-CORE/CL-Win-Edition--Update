@@ -65,6 +65,14 @@
     "ChangelogErrorTitle": "Brak artykułów",
     "ChangelogErrorDesc": "Sorki, ale nie dałam rady odnaleźć najnowsze artykuły (Changelog).\nMożliwe, że połączenie z internetem znikło lub serwery Mojang się zmęczyły\n\nDetale: {0}"
   },
+  "ChangelogWindow": {
+    "UpdateTitle": "Оновлення: {0}",
+    "LoadingDescription": "Завантаження опису для {0}...",
+    "Translating": "Перекладаю українською... 🇺🇦\n(Це може зайняти кілька секунд, заварюй чай)",
+    "ErrorLoading": "# Йой, сталася помилка!\n\nНе вдалося завантажити патчноут.\n**Деталі:** {0}",
+    "OldVersionFallback": "Ця версія занадто стара або це снапшот, якого немає в офіційному архіві Mojang.",
+    "OpenWikiButton": "Читати на Minecraft Wiki"
+  },
   "Generic": {
     "Unknown": "Nieznany",
     "Search": "Szukaj...",
