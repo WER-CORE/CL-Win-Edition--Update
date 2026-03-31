@@ -65,6 +65,14 @@
     "ChangelogErrorTitle": "No news",
     "ChangelogErrorDesc": "Sorry, but I couldn't get the newest changelog.\nYou probably lost connection, or Mojang's servers are down.\n\nError details: {0}"
   },
+  "ChangelogWindow": {
+    "UpdateTitle": "Оновлення: {0}",
+    "LoadingDescription": "Завантаження опису для {0}...",
+    "Translating": "Перекладаю українською... 🇺🇦\n(Це може зайняти кілька секунд, заварюй чай)",
+    "ErrorLoading": "# Йой, сталася помилка!\n\nНе вдалося завантажити патчноут.\n**Деталі:** {0}",
+    "OldVersionFallback": "Ця версія занадто стара або це снапшот, якого немає в офіційному архіві Mojang.",
+    "OpenWikiButton": "Читати на Minecraft Wiki"
+  },
   "Generic": {
     "Unknown": "Unknown",
     "Search": "Search...",
