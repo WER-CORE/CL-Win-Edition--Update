@@ -51,6 +51,10 @@
     "Alpha": "Alpha",
     "Vanilla": "Vanilla"
   },
+  "Crash": {
+    "Title": "Помилка CL Launcher",
+    "Message": "Ой-йой! Лаунчер зіткнувся з критичною помилкою.\nЯкщо ви давали згоду, розробник вже отримав звіт.\n\nДеталі можна знайти в папці logs."
+  },
   "MainScreen": {
     "HistoryServer": "Server",
     "HistoryVersion": "Version",
@@ -506,7 +510,9 @@
     "RestartRequired": "Перезавантажіть запускач",
     "DeclineBtn": "Я не згоден (Вихід)",
     "AcceptBtn": "Згода!",
-    "Error": "ПОМИЛКА EULA:"
+    "Error": "ПОМИЛКА EULA:",
+    "CrashTitle": "Дозволити анонімну відправку звітів про помилки.",
+    "CrashDesc": "Це допоможе нам швидше виправляти баги. Жодні особисті дані не збираються."
   },
   "DownloadManager": {
     "Title": "Менеджер завантаження",
