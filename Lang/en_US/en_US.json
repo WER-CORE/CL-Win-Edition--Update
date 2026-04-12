@@ -1,4 +1,4 @@
-{
+﻿{
   "LoadScreen": {
     "LoadingText": "Loading resources...",
     "DiscordRPC": "In the load window",
@@ -131,6 +131,8 @@
     "AutoDepDesc": "Automatically downloads the needed library mods (API)",
     "GlassTitle": "Transparency",
     "GlassDesc": "Translucent window background (Mica). Turn it off if you experience lag",
+    "CrashReportTitle": "Звіти про помилки",
+    "CrashReportDesc": "Анонімне відправлення даних про критичні збої розробнику для їх виправлення",
     "ModulesTitle": "Модульність (Кастомізація)",
     "ModulesDesc": "Оберіть готовий шаблон або вимкніть непотрібні функції власноруч:",
     "PresetLiteBtn": "Мінімалізм",
