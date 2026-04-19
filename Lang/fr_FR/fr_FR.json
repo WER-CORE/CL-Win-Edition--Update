@@ -101,7 +101,8 @@
     "Wiki": "Документація (Wiki)",
     "Github": "GitHub (Код)",
     "SupportProject": "Підтримати проект",
-    "SupportBrigade": "Підтримати 3 ОШБр"
+    "SupportBrigade": "Підтримати 3 ОШБр",
+    "Credits": "Подяки (Автори та Перекладачі)"
   },
   "Settings": {
     "Minecraft": "Майнкрафт",
@@ -205,6 +206,11 @@
     "CategoryDataPacks": "Датапаки",
     "SearchingMods": "Bit-CL шукає потрібні файли...",
     "InstallBtn": "Встановити",
+    "ItemJarDetailsBtn": "Докладніше",
+    "NoModpacksTitle": "Немає збірок",
+    "NoModpacksDesc": "У вас ще немає жодної створеної збірки! Спочатку створіть збірку, щоб я могла додати туди цей мод.",
+    "NoVersionsTitle": "Версії відсутні",
+    "NoVersionsDesc": "Я знайшла файли, але жоден з них не має чіткої версії гри (можливо, мод застарів).",
     "InstallModsTxt": "Встановити...",
     "FileNotFound": "Файл мода не знайдено:\n{0}",
     "StatusChangeError": "Не вдалося змінити статус мода.\n{0}",
@@ -273,10 +279,16 @@
     "ModpackSystemTitle": "Система",
     "ModpackLogs": "Консоль розробника (Logs)",
     "ModpackRam": "Оперативна пам’ять",
+    "ModpackJavaPath": "Кастомний шлях до Java",
+    "ModpackJavaPathDesc": "Залиште пустим для авто-пошуку",
+    "ModpackBrowseJavaBtn": "Огляд",
     "ModpackGameTitle": "Гра",
     "ModpackWindowSize": "Розмір вікна",
     "ModpackAutoJoin": "Авто-вхід на сервер",
     "ModpackServerIp": "IP Сервера",
+    "ModpackCustomizationTitle": "Кастомізація",
+    "ModpackChangeIconBtn": "Змінити",
+    "ModpackIcon": "Іконка збірки",
     "LoaderSearch": "Пошук...",
     "LoaderNotFoundDesc": "Не знайдено версій {0} для {1}.",
     "LoaderSelectHeader": "Оберіть версію:",
@@ -480,7 +492,12 @@
     "DeleteBtn": "🗑",
     "WorldNotFound": "Світ не знайдено!",
     "WorldRestoreLockError": "Не можу замінити файли світу. Можливо, гра ще запущена? Закрийте Minecraft.",
-    "CreateError": "Помилка створення: {0}"
+    "CreateError": "Помилка створення: {0}",
+    "JavaFilter": "Java Executable (javaw.exe)|javaw.exe|Усі файли (*.*)|*.*",
+    "SelectJavaTitle": "Оберіть файл javaw.exe",
+    "ImageFilter": "Зображення (*.png;*.jpg;*.jpeg)|*.png;*.jpg;*.jpeg",
+    "SelectIconTitle": "Оберіть іконку для збірки",
+    "IconSaveError": "Помилка встановлення іконки: {0}"
   },
   "Updater": {
     "WindowTitle": "Оновлення CL Launcher",
