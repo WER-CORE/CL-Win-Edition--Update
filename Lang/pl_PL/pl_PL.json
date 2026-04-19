@@ -101,7 +101,8 @@
     "Wiki": "Dokumentacja (Wiki)",
     "Github": "GitHub (Kod)",
     "SupportProject": "Wesprzyj ten projekt",
-    "SupportBrigade": "Підтримати 3 ОШБр"
+    "SupportBrigade": "Підтримати 3 ОШБр",
+    "Credits": "Подяки (Автори та Перекладачі)"
   },
   "Settings": {
     "Minecraft": "Майнкрафт",
@@ -285,6 +286,7 @@
     "ModpackWindowSize": "Розмір вікна",
     "ModpackAutoJoin": "Авто-вхід на сервер",
     "ModpackServerIp": "IP Сервера",
+    "ModpackCustomizationTitle": "Кастомізація",
     "ModpackChangeIconBtn": "Змінити",
     "ModpackIcon": "Іконка збірки",
     "LoaderSearch": "Szukaj...",
