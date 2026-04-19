@@ -101,7 +101,8 @@
     "Wiki": "CL Wiki",
     "Github": "GitHub (source)",
     "SupportProject": "Support the project",
-    "SupportBrigade": "Support 3 SAB"
+    "SupportBrigade": "Support 3 SAB",
+    "Credits": "Подяки (Автори та Перекладачі)"
   },
   "Settings": {
     "Minecraft": "Minecraft",
@@ -285,6 +286,7 @@
     "ModpackWindowSize": "Window size",
     "ModpackAutoJoin": "Server auto-join",
     "ModpackServerIp": "Server IP",
+    "ModpackCustomizationTitle": "Кастомізація",
     "ModpackChangeIconBtn": "Edit",
     "ModpackIcon": "Іконка збірки",
     "LoaderSearch": "Search...",
