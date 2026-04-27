@@ -777,8 +777,5 @@
     "EmptyDesc": "Хм, я нічого не знайшла за твоїм запитом. Спробуй змінити пошук.",
     "FormatErrorTitle": "Помилка даних",
     "FormatErrorDesc": "Дивина! Список серверів порожній або має неправильний формат.",
-    "WebViewTitle": "Вбудований перегляд (CL Launcher)",
-    "WebViewInitError": "Помилка ініціалізації WebView2: {0}",
-    "WebViewCrashError": "Критична помилка відкриття WebView: {0}"
   }
 }
