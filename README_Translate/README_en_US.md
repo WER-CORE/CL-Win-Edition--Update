@@ -43,7 +43,7 @@
   <img width="750" height="438" alt="image" src="https://github.com/user-attachments/assets/4595f05f-24e3-41a3-a1b6-3728f97722c8" />
   <img width="1200" height="678" alt="image" src="https://github.com/user-attachments/assets/e06eb170-5153-4b5a-82ed-484332ad4a13" />
 
-  <p><i>Screenshots of the version 0.8.0.0B</i></p>
+  <p><i>Screenshots of the version 0.9.1.0B</i></p>
 </div>
 
 ---
