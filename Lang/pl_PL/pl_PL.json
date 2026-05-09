@@ -52,8 +52,8 @@
     "Vanilla": "Vanilla"
   },
   "Crash": {
-    "Title": "Помилка CL Launcher",
-    "Message": "Ой-йой! Лаунчер зіткнувся з критичною помилкою.\nЯкщо ви давали згоду, розробник вже отримав звіт.\n\nДеталі можна знайти в папці logs."
+    "Title": "Błąd CL Launcher",
+    "Message": "Oo nie! Launcher napotkał błąd.\nJeśli wyraziłeś zgodę, programista już otrzymał informację o tym problemie.\n\nSzczegóły można znaleźć w folderze logs."
   },
   "MainScreen": {
     "HistoryServer": "Serwer",
@@ -70,10 +70,10 @@
     "ChangelogErrorDesc": "Sorki, ale nie dałam rady odnaleźć najnowsze artykuły (Changelog).\nMożliwe, że połączenie z internetem znikło lub serwery Mojang się zmęczyły\n\nDetale: {0}"
   },
   "ChangelogWindow": {
-    "UpdateTitle": "Оновлення: {0}",
-    "LoadingDescription": "Завантаження опису для {0}...",
+    "UpdateTitle": "Aktualizacja: {0}",
+    "LoadingDescription": "Ładowanie opisu dla {0}...",
     "Translating": "Перекладаю українською... 🇺🇦\n(Це може зайняти кілька секунд, заварюй чай)",
-    "ErrorLoading": "# Йой, сталася помилка!\n\nНе вдалося завантажити патчноут.\n**Деталі:** {0}",
+    "ErrorLoading": "# Ups, wystąpił błąd!\n\nNie udało się uruchomić aktualizacje.\n**Szczegóły: ** {0}",
     "OldVersionFallback": "Ця версія занадто стара або це снапшот, якого немає в офіційному архіві Mojang.",
     "OpenWikiButton": "Читати на Minecraft Wiki"
   },
