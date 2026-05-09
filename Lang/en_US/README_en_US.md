@@ -64,11 +64,11 @@ All stable releases are published in the **Releases** tab of this repository.
 
 ## 🛠 System requirements
 
-| Component   | Minimal / Recommended                                                                                  |
-| :---------- | :----------------------------------------------------------------------------------------------------- |
-| **OS**      | Windows 10/11 (x64) \\| Windows 7/8/8.1 (x86)\* |
-| **Java**    | Java 17 or newer (Java is automatically downloaded in the newer versions)           |
-| **Runtime** | Microsoft .NET 8.0 Desktop Runtime                                     |
+| Component   | Minimal / Recommended                                                                                |
+| :---------- | :--------------------------------------------------------------------------------------------------- |
+| **OS**      | Windows 10/11 (x64) \| Windows 7/8/8.1 (x86)\* |
+| **Java**    | Java 17 or newer (Java is automatically downloaded in the newer versions)         |
+| **Runtime** | Microsoft .NET 8.0 Desktop Runtime                                   |
 
 ---
 
