@@ -11,7 +11,7 @@ Cat (CURRENT DEVELOPER / ТЕПЕРЕШНІЙ РОЗРОБНИК);
 
 ПЕРЕКЛАДАЧІ (TRANSLATORS / AWESOME COMMUNITY)
 🇬🇧 English: MacToxa, Кабанчік.
-🇵🇱 Polski: TheWrlQ.
+🇵🇱 Polski: TheWrlQ, Вусач.
 🇫🇷 France:
 🇨🇿 Czechia: 
 БЧБ Беларуская: WER-CORE
