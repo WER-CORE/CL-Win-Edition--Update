@@ -9,24 +9,21 @@
       "CriticalCrashMessage": "Oj! Krytyczny błąd uruchomienia.\nZapisałam detale w pliku {0}.\n\nKrótko: {1}"
     },
     "RandomPhrases": {
-      "Phrase1": "Pierwsza zielona trawa wybija się z ziemi...",
-      "Phrase2": "Parzymy herbatę owocową...",
-      "Phrase3": "Homka sądzi pierwsze wiosenne kwiaty...",
-      "Phrase4": "Deeplay robi zdjęcia kwitnącej wiśni 🌸...",
-      "Phrase5": "Ciepły wiosenny deszczyk stuka po oknach...",
-      "Phrase6": "Nastał czas chować kurtki zimowe jak najdalej w szafę...",
-      "Phrase7": "Pachnie świeżo skoszoną trawą i arbuzem...",
-      "Phrase8": "Drzewa pokrywają się delikatnymi białymi kwiatkami...",
-      "Phrase9": "Danylo przygotowuje gryla dla pierwszych kiełbasek...",
-      "Phrase10": "WER_Clegendary szuka idealne miejsce pod piknik...",
-      "Phrase11": "Przyroda wreszcie budzi się za oknem...",
-      "Phrase12": "Mrużymy oczy od jasnego wiosennego słońca...",
-      "Phrase13": "Płatki wiśni wirują w ciepłym powietrzu...",
-      "Phrase14": "Czas na długie wieczorne spacery...",
-      "Phrase15": "Świeże wiosenne powietrze inspiruje na przygody...",
-      "Phrase16": "Przygotowujemy się do ciepłych majowych weekendów...",
-      "Phrase17": "Wszyscy czekają na ocieplenie (lub już sądzą ziemniaki)...",
-      "Phrase18": "Ciepło na polu, słonecznie na sercu..."
+      "Phrase1": "Сонце пече так, що навіть кулери ПК просять про холодний лимонад...",
+      "Phrase2": "Захист проєктів позаду, нарешті час для безтурботного літа!...",
+      "Phrase3": "Homka будує епічні піщані замки на пляжі...",
+      "Phrase4": "Deeplay ловить найкращі літні заходи сонця в об'єктив...",
+      "Phrase5": "Заряджаємо акумулятор електровелосипеда для вечірньої прохолодної поїздки...",
+      "Phrase6": "Данило розставляє вентилятори по всій кімнаті...",
+      "Phrase7": "WER_Clegendary тестує нові збірки, ховаючись від спеки в тіні...",
+      "Phrase8": "кабанчік прокладає найкоротший маршрут до найближчої річки...",
+      "Phrase9": "Обережно чистимо капелюшки улюблених плюшевих іграшок від літнього пилу...",
+      "Phrase10": "Готуємо крижаний квас і плануємо грандіозні будівлі...",
+      "Phrase11": "Світлячки за вікном блимають, немов ідеально налаштований редстоун...",
+      "Phrase12": "Раптовий літній злива приносить довгоочікувану свіжість...",
+      "Phrase13": "Час відчиняти вікна навстіж і ловити нічний вітерець...",
+      "Phrase14": "Збираємо рюкзак для вилазки на природу з друзями...",
+      "Phrase15": "Літо на вулиці, спека в грі, затишок на душі..."
     }
   },
   "Sidebar": {
@@ -42,7 +39,10 @@
     "ToolTipModpacks": "Utwórz lub importuj modpack",
     "ToolTipMods": "Pobieranie modów",
     "ToolTipServers": "Lista serwerów",
-    "ToolTipGallery": "Zrzuty ekranu"
+    "ToolTipGallery": "Zrzuty ekranu",
+    "AskResetOptions": "Ви дійсно хочете скинути налаштування гри? Це скине керування, звук та графіку до стандартних.",
+    "SuccessResetOptions": "Налаштування гри успішно скинуто!",
+    "OptionsNotFound": "Файл налаштувань не знайдено. Схоже, ви ще жодного разу не запускали цю збірку."
   },
   "Versions": {
     "Release": "Wydanie",
