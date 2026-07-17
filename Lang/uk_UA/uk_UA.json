@@ -386,7 +386,11 @@
     "ModAlreadyInListTitle": "Вже є",
     "NoModsToDownloadDesc": "Немає модів для завантаження.",
     "AllModsDownloadedDesc": "Всі моди успішно завантажені!",
-    "ModSearchPlaceholder": "Пошук..."
+    "ModSearchPlaceholder": "Пошук...",
+    "ModpackLoaderType": "Тип Ядра",
+    "ModpackResetOptionsTitle": "Скинути налаштування гри",
+    "ModpackResetOptionsDesc": "Видаляє options.txt (допомагає, якщо гра крашиться через графіку)",
+    "ModpackResetBtn": "Скинути"
   },
   "Gallery": {
     "OpenFolderBtn": "Відкрити папку",
