@@ -386,7 +386,11 @@
     "ModAlreadyInListTitle": "Already in",
     "NoModsToDownloadDesc": "No available mods for download.",
     "AllModsDownloadedDesc": "All mods successfully downloaded!",
-    "ModSearchPlaceholder": "Search..."
+    "ModSearchPlaceholder": "Search...",
+    "ModpackLoaderType": "Тип Ядра",
+    "ModpackResetOptionsTitle": "Скинути налаштування гри",
+    "ModpackResetOptionsDesc": "Видаляє options.txt (допомагає, якщо гра крашиться через графіку)",
+    "ModpackResetBtn": "Reset"
   },
   "Gallery": {
     "OpenFolderBtn": "Open folder",
