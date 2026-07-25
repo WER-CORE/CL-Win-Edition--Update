@@ -28,7 +28,7 @@
   },
   "Sidebar": {
     "Main": "Main Menu",
-    "Modpacks": "Збірки",
+    "Modpacks": "Instances",
     "Mods": "Mods",
     "Servers": "Servers",
     "Gallery": "Gallery",
@@ -36,13 +36,13 @@
     "Files": "Files & Backups",
     "Info": "Information",
     "ToolTipMain": "Main page",
-    "ToolTipModpacks": "Створити або імпортувати збірку",
+    "ToolTipModpacks": "Create or import an instance",
     "ToolTipMods": "Loading mods",
     "ToolTipServers": "Server list",
     "ToolTipGallery": "Screenshots",
-    "AskResetOptions": "Ви дійсно хочете скинути налаштування гри? Це скине керування, звук та графіку до стандартних.",
-    "SuccessResetOptions": "Налаштування гри успішно скинуто!",
-    "OptionsNotFound": "Файл налаштувань не знайдено. Схоже, ви ще жодного разу не запускали цю збірку."
+    "AskResetOptions": "Are you sure you want to reset the game settings? This will reset the controls, sound, and graphics settings to defaults.",
+    "SuccessResetOptions": "Game settings were successfully reset!",
+    "OptionsNotFound": "The settings file could not be found. It seems like the instance was never launched to generate it."
   },
   "Versions": {
     "Release": "Release",
@@ -52,8 +52,8 @@
     "Vanilla": "Vanilla"
   },
   "Crash": {
-    "Title": "Помилка CL Launcher",
-    "Message": "Ой-йой! Лаунчер зіткнувся з критичною помилкою.\nЯкщо ви давали згоду, розробник вже отримав звіт.\n\nДеталі можна знайти в папці logs."
+    "Title": "CL Launcher error",
+    "Message": "Ouch! The launcher has hit a critical error.\nThe developer has already received the crash log if you consented to it.\n\nThe details can be found in the logs folder."
   },
   "MainScreen": {
     "HistoryServer": "Server",
@@ -70,12 +70,12 @@
     "ChangelogErrorDesc": "Sorry, but I couldn't get the newest changelog.\nYou probably lost connection, or Mojang's servers are down.\n\nError details: {0}"
   },
   "ChangelogWindow": {
-    "UpdateTitle": "Оновлення: {0}",
-    "LoadingDescription": "Завантаження опису для {0}...",
-    "Translating": "Перекладаю українською... 🇺🇦\n(Це може зайняти кілька секунд, заварюй чай)",
-    "ErrorLoading": "# Йой, сталася помилка!\n\nНе вдалося завантажити патчноут.\n**Деталі:** {0}",
-    "OldVersionFallback": "Ця версія занадто стара або це снапшот, якого немає в офіційному архіві Mojang.",
-    "OpenWikiButton": "Читати на Minecraft Wiki"
+    "UpdateTitle": "Update: {0}",
+    "LoadingDescription": "Loading the description for {0}...",
+    "Translating": "Translating to... English\n(This may take a few seconds, make some tea while you wait)",
+    "ErrorLoading": "# Yikes, an error occurred!\n\nThere was an error in loading the patch notes.\n**Details:** {0}",
+    "OldVersionFallback": "This version is too old or it's a snapshot that isn't in the official Mojang archive.",
+    "OpenWikiButton": "Read on the Minecraft Wiki"
   },
   "Generic": {
     "Unknown": "Unknown",
@@ -102,12 +102,12 @@
     "Github": "GitHub (source)",
     "SupportProject": "Support the project",
     "SupportBrigade": "Support 3 SAB",
-    "Credits": "Подяки (Автори та Перекладачі)"
+    "Credits": "Credits (Creators & Translators)"
   },
   "Credits": {
-    "Title": "Автори та Спільнота",
+    "Title": "Creators & Community",
     "CloseBtn": "Close",
-    "Loading": "Сіель шукає список наших героїв..."
+    "Loading": "CL is looking for a list of our heroes..."
   },
   "Settings": {
     "Minecraft": "Minecraft",
@@ -115,7 +115,7 @@
     "DevConsoleDesc": "Opens a window with the game's logs while you are playing",
     "FullScreenTitle": "Full-screen mode",
     "FullScreenDesc": "Starts the game in borderless full-screen mode",
-    "ResolutionTitle": "Роздільна здатність екрану",
+    "ResolutionTitle": "Screen resolution",
     "ResolutionDesc": "Game window resolution.",
     "RamTitle": "RAM",
     "RamDesc": "The amount of RAM that is dedicated to Java, 4096 MB is recommended. Do not set the maximum!",
@@ -128,7 +128,7 @@
     "ThemeDark": "Dark",
     "ThemeLight": "Light",
     "ThemeCustom": "Custom",
-    "Launcher": "Запускач",
+    "Launcher": "Launcher",
     "LanguageTitle": "Language",
     "LanguageDesc": "Choose the launcher's language. The changes apply instantly.",
     "CloseLaunchTitle": "Determines if the launcher closes after the game's launch",
@@ -137,21 +137,21 @@
     "AutoDepDesc": "Automatically downloads the needed library mods (API)",
     "GlassTitle": "Transparency",
     "GlassDesc": "Translucent window background (Mica). Turn it off if you experience lag",
-    "CrashReportTitle": "Звіти про помилки",
+    "CrashReportTitle": "Crash reports",
     "CrashReportDesc": "Анонімне відправлення даних про критичні збої розробнику для їх виправлення",
-    "ModulesTitle": "Модульність (Кастомізація)",
-    "ModulesDesc": "Оберіть готовий шаблон або вимкніть непотрібні функції власноруч:",
-    "PresetLiteBtn": "Мінімалізм",
-    "PresetLiteTooltip": "Вимкнути все зайве",
-    "PresetBalanceBtn": "Баланс",
-    "PresetBalanceTooltip": "Оптимальний набір функцій",
-    "PresetUltraBtn": "Ультра",
-    "PresetUltraTooltip": "Увімкнути всі можливості (Комбайн)",
-    "ModModpacksTitle": "Вкладка «Збірки»",
-    "ModModpacksDesc": "Відображає розділ створення та гри з модовими збірками",
-    "ModModsTitle": "Вкладка «Моди»",
-    "ModModsDesc": "Вбудований завантажувач модифікацій, ресурспаків та шейдерів",
-    "ModServersTitle": "Вкладка «Сервери»",
+    "ModulesTitle": "Modularity (Customization)",
+    "ModulesDesc": "Choose a preset or disable features that you do not need manually:",
+    "PresetLiteBtn": "Minimalism",
+    "PresetLiteTooltip": "Turn off everything unnecessary",
+    "PresetBalanceBtn": "Balanced",
+    "PresetBalanceTooltip": "The optimal feature package",
+    "PresetUltraBtn": "Ultra",
+    "PresetUltraTooltip": "Enable all features (Combine)",
+    "ModModpacksTitle": "«Instances» tab",
+    "ModModpacksDesc": "Displays a tab for creating and playing with modpacks",
+    "ModModsTitle": "«Mods» tab",
+    "ModModsDesc": "Built-in mod, resourcepack, and shader downloader",
+    "ModServersTitle": "«Servers» tab",
     "ModServersDesc": "Загальний моніторинг серверів (Плашка партнерів не вимикається)",
     "ModGalleryTitle": "Вкладка «Галерея»",
     "ModGalleryDesc": "Перегляд та управління скріншотами з гри",
@@ -228,7 +228,7 @@
     "ItemJarAuthorTooltip": "Author",
     "ItemJarInstallBtn": "Install",
     "WhereIsForgeTitle": "Where's Forge? And other modloaders.",
-    "WhereIsForgeDesc": "Ми використовуємо професійну систему!\n\nМодифіковані версії (Forge, Fabric, ...) створюються як окремі 'Збірки'. Це захищає ваші моди від конфліктів і крашів.\n\nНатисніть кнопку 'Створити', щоб встановити Forge або Fabric та інші.",
+    "WhereIsForgeDesc": "We use a professional system!\n\nModified versions (Forge, Fabric, ...) are created as separate \"instances\". This protects your mods from conflicts & crashes.\n\nPress on the \"Create\" button to download these modified versions.",
     "SearchPresence": "Searching for mods...",
     "NotFound": "The search did not return any results (or end of the list).",
     "ArchiveEmptyTitle": "Empty",
@@ -238,15 +238,15 @@
   },
   "Modpacks": {
     "GlobalFolder": "Global (.ClMinecraft)",
-    "ModpackFolder": "{0} (Збірка)",
+    "ModpackFolder": "{0} (Instance)",
     "ToolTipImport": "Press to import modpacks",
     "ToolTipCreate": "Press to create a modpack",
-    "FilterTitle": "Фільтр Збірок",
+    "FilterTitle": "Instance filter",
     "ImportBtn": "Import",
     "CreateNewBtn": "Create new",
-    "CreateTitle": "Створення збірки",
+    "CreateTitle": "Instance creation",
     "VanillaPack": "Vanilla instance",
-    "ModdedPack": "Модова збірка",
+    "ModdedPack": "Modded instance (Modpack)",
     "SelectVersionTitle": "Mod version select",
     "DeleteBtn": "Delete",
     "FolderBtn": "Instance folder",
