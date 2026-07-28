@@ -42,7 +42,7 @@
 <div align="center">
   <img width="750" height="438" alt="image" src="https://github.com/user-attachments/assets/5ced7771-34d4-4cbc-a6ad-2ff1f0d99187" />
   <img width="1200" height="678" alt="image" src="https://github.com/user-attachments/assets/17e30bad-b199-4439-b832-7d8d59178b1b" />
-  <p><i>Screenshots of the version 1.0.0.1R</i></p>
+  <p><i>Screenshots of the version 1.0.0.2R</i></p>
 </div>
 
 ---
