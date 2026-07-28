@@ -8,6 +8,10 @@
       "CriticalCrashTitle": "Critical error",
       "CriticalCrashMessage": "Oops! Critical startup error.\nI saved information into file {0}.\n\nShortly: {1}"
     },
+    "ColorPicker": {
+      "Cancel": "Cancel",
+      "Apply": "Застосувати"
+    },
     "RandomPhrases": {
       "Phrase1": "Сонце пече так, що навіть кулери ПК просять про холодний лимонад...",
       "Phrase2": "Захист проєктів позаду, нарешті час для безтурботного літа!...",
@@ -196,7 +200,9 @@
     "CopyBtn": "Copy",
     "PasteBtn": "Paste",
     "FileBtn": "File...",
-    "TextBtn": "Text..."
+    "TextBtn": "Text...",
+    "SoundTitle": "Звуки інтерфейсу",
+    "SoundDesc": "Озвучка кліків та натискань кнопок"
   },
   "Mods": {
     "SourceTitle": "Source",
