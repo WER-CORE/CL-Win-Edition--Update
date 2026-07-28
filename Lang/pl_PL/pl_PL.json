@@ -8,6 +8,10 @@
       "CriticalCrashTitle": "Błąd krytyczny",
       "CriticalCrashMessage": "Oj! Krytyczny błąd uruchomienia.\nZapisałam detale w pliku {0}.\n\nKrótko: {1}"
     },
+    "ColorPicker": {
+      "Cancel": "Anuluj",
+      "Apply": "Застосувати"
+    },
     "RandomPhrases": {
       "Phrase1": "Сонце пече так, що навіть кулери ПК просять про холодний лимонад...",
       "Phrase2": "Захист проєктів позаду, нарешті час для безтурботного літа!...",
@@ -196,7 +200,9 @@
     "CopyBtn": "Копіювати",
     "PasteBtn": "Вставити",
     "FileBtn": "Plik...",
-    "TextBtn": "Tekst..."
+    "TextBtn": "Tekst...",
+    "SoundTitle": "Звуки інтерфейсу",
+    "SoundDesc": "Озвучка кліків та натискань кнопок"
   },
   "Mods": {
     "SourceTitle": "Źródło",
