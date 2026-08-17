@@ -1,20 +1,23 @@
 ГОЛОВНИЙ РОЗРОБНИК (MAIN DEVELOPER)
 WER_Clegendary.
 
+ВНЕСОК У КОД (CODE CONTRIBUTORS)
+THEROER (Linux Core & Avalonia Foundation).
+
 ДИЗАЙН (DESIGN)
 Homka;
-WER_Clegendary.
+WER_CORE.
 
 РОЗРОБНИК ВЕБ-САЙТУ (WEBSITE DEVELOPER)
-hazeikyn(PAST DEVELOPER / МИНУЛИЙ РОЗРОБНИК);
-Cat (CURRENT DEVELOPER / ТЕПЕРЕШНІЙ РОЗРОБНИК);
+hazeikyn (PAST DEVELOPER / КОЛИШНІЙ РОЗРОБНИК);
+Cat (CURRENT DEVELOPER / ПОТОЧНИЙ РОЗРОБНИК).
 
 ПЕРЕКЛАДАЧІ (TRANSLATORS / AWESOME COMMUNITY)
 🇬🇧 English: MacToxa, Кабанчік.
 🇵🇱 Polski: TheWrlQ, Вусач.
-🇫🇷 France:
-🇨🇿 Czechia: 
-БЧБ Беларуская: WER-CORE
+🇫🇷 Français:
+🇨🇿 Čeština:
+⚪🔴⚪ Беларуская: WER-CORE.
 
 ОСОБЛИВА ПОДЯКА (SPECIAL THANKS)
 Усій нашій неймовірній спільноті! Величезне дякую кожному, хто повідомляв про баги, пропонував нові фічі та просто підтримував нас. Без ваших відгуків та ідей CL Launcher не був би таким крутим! Ви — серце цього проєкту. ❤️
