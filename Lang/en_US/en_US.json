@@ -402,7 +402,12 @@
     "ModpackLoaderType": "Тип Ядра",
     "ModpackResetOptionsTitle": "Скинути налаштування гри",
     "ModpackResetOptionsDesc": "Видаляє options.txt (допомагає, якщо гра крашиться через графіку)",
-    "ModpackResetBtn": "Reset"
+    "ModpackResetBtn": "Reset",
+    "RepairModpackTitle": "Відновити збірку",
+    "RepairModpackDesc": "Перевіряє та завантажує відсутні моди (якщо ви їх випадково видалили)",
+    "RepairModpackBtn": "Restore",
+    "RepairModpackDialogTitle": "Відновлення збірки",
+    "RepairModpackDialogMessage": "Збірку буде перевірено та відновлено при наступному запуску гри!"
   },
   "Gallery": {
     "OpenFolderBtn": "Open folder",
