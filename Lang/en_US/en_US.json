@@ -204,7 +204,7 @@
     "PasteBtn": "Paste",
     "FileBtn": "File...",
     "TextBtn": "Text...",
-    "SoundTitle": "Звуки інтерфейсу",
+    "SoundTitle": "UI Sounds",
     "SoundDesc": "Озвучка кліків та натискань кнопок",
     "ScaleTitle": "Масштаб інтерфейсу",
     "ScaleDesc": "Збільшує або зменшує розмір всіх елементів у лаунчері"
@@ -294,7 +294,7 @@
     "ModpackLoaderVersion": "Loader version",
     "ModpackChangeBtn": "Edit",
     "ModpackSystemTitle": "System",
-    "ModpackLogs": "Консоль розробника (Logs)",
+    "ModpackLogs": "Modpack logs",
     "ModpackRam": "RAM",
     "ModpackJavaPath": "Кастомний шлях до Java",
     "ModpackJavaPathDesc": "Залиште пустим для авто-пошуку",
