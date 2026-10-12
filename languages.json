@@ -25,14 +25,14 @@
     "Name": "Čeština",
     "FlagUrl": "https://flagcdn.com/w40/cz.png",
     "DownloadUrl": "https://raw.githubusercontent.com/WER-CORE/CL-Win-Edition--Update/main/Lang/cs_CZ/cs_CZ.json",
-    "Progress": 0
+    "Progress": 1
   },
   {
     "Code": "fr_FR",
     "Name": "Français",
     "FlagUrl": "https://flagcdn.com/w40/fr.png",
     "DownloadUrl": "https://raw.githubusercontent.com/WER-CORE/CL-Win-Edition--Update/main/Lang/fr_FR/fr_FR.json",
-    "Progress": 0
+    "Progress": 1
   },
   {
     "Code": "be_BY",
