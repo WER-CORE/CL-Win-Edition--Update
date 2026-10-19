@@ -13,11 +13,12 @@
 # CL-Launcher | CL (Clegendary Launcher)
 ### Windows Edition
 
-![Останній реліз)](https://img.shields.io/github/v/release/WER-CORE/CL-Win-Edition--Update?style=for-the-badge&color=blue)
-![Платформа](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Завантажило](https://img.shields.io/github/downloads/WER-CORE/CL-Win-Edition--Update/total?style=for-the-badge&color=green)
-![ЗРОБЛЕНО З ЛЮБОВЮ ДО УКРАЇНИ](https://img.shields.io/badge/MADE_IN-UKRAINE-ffd700?style=for-the-badge&labelColor=0057b7)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/WER-CORE/CL-Win-Edition--Update?style=for-the-badge&color=blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Made in Ukraine](https://img.shields.io/badge/MADE_IN-UKRAINE-ffd700?style=for-the-badge&labelColor=0057b7)
 [![Discord](https://img.shields.io/discord/1234567890?style=for-the-badge&label=Discord&logo=discord&color=5865F2)](https://discord.gg/RhyZjACs2U)
+[![SignPath.io](https://img.shields.io/badge/Code%20Signing-SignPath.io-blue?style=for-the-badge&logo=windows)](https://signpath.org)
+![Downloads](https://img.shields.io/github/downloads/WER-CORE/CL-Win-Edition--Update/total?style=for-the-badge&color=green)
 
 **Сучасний, оптимізований лаунчер для Minecraft: Java Edition. Свій до свого по своє! 🇺🇦**
 
