@@ -112,7 +112,7 @@
     "SupportProject": "Підтримати проект",
     "SupportBrigade": "Підтримати 3 ОШБр",
     "Credits": "Подяки (Автори та Перекладачі)",
-    "ImportLegacy": "Імпорт даних з папки CL"
+    "ImportLegacy": "Імпорт папки Data..."
   },
   "Credits": {
     "Title": "Автори та Спільнота",
@@ -217,15 +217,17 @@
     "TourTitle": "Ознайомчий тур",
     "TourDesc": "Швидкий гід основними можливостями та розділами лаунчера",
     "StartTourBtn": "Пройти тур",
-    "ImportLegacyTitle": "Імпорт даних з папки CL",
-    "ImportLegacyDesc": "Перенесення акаунтів та налаштувань із папки",
+    "ImportLegacyTitle": "Імпорт папки Data",
+    "ImportLegacyDesc": "Перенесення акаунтів, налаштувань та файлів із папки Data старої версії",
     "ImportLegacyBtn": "Вибрати папку...",
-    "ImportLegacyDialogTitle": "Виберіть папку зі старою версією лаунчера",
-    "ImportLegacySuccess": "Дані успішно імпортовано з папки CL!",
-    "ImportLegacyNotFound": "У вибраній папці не знайдено даних старої версії (ProfilesManeger.json або UserSaves.json).",
+    "ImportLegacyDialogTitle": "Виберіть папку Data або папку зі старою версією лаунчера",
+    "ImportLegacySuccess": "Папку Data успішно імпортовано!",
+    "ImportLegacyNotFound": "У вибраній папці не знайдено даних для імпорту.",
     "ImportLegacyProfilesCount": "Профілів/акаунтів: {0}",
     "ImportLegacySettingsDone": "Налаштування оновлено",
-    "ImportLegacyPhrasesDone": "Кастомні фрази перенесено"
+    "ImportLegacyPhrasesDone": "Кастомні фрази перенесено",
+    "ImportLegacyModpacksCount": "Збірок перенесено: {0}",
+    "ImportLegacyFilesCount": "Файлів із папки Data: {0}"
   },
   "Mods": {
     "SourceTitle": "Джерело",
