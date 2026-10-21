@@ -111,7 +111,8 @@
     "Github": "GitHub (Код)",
     "SupportProject": "Падтрымаць праект",
     "SupportBrigade": "Підтримати 3 ОШБр",
-    "Credits": "Подяки (Автори та Перекладачі)"
+    "Credits": "Подяки (Автори та Перекладачі)",
+    "ImportLegacy": "Імпорт даних з папки CL"
   },
   "Credits": {
     "Title": "Автори та Спільнота",
@@ -215,7 +216,16 @@
     "ScaleDesc": "Збільшує або зменшує розмір всіх елементів у лаунчері",
     "TourTitle": "Ознайомчий тур",
     "TourDesc": "Швидкий гід основними можливостями та розділами лаунчера",
-    "StartTourBtn": "Пройти тур"
+    "StartTourBtn": "Пройти тур",
+    "ImportLegacyTitle": "Імпорт даних з папки CL",
+    "ImportLegacyDesc": "Перенесення акаунтів та налаштувань із папки",
+    "ImportLegacyBtn": "Вибрати папку...",
+    "ImportLegacyDialogTitle": "Виберіть папку зі старою версією лаунчера",
+    "ImportLegacySuccess": "Дані успішно імпортовано з папки CL!",
+    "ImportLegacyNotFound": "У вибраній папці не знайдено даних старої версії (ProfilesManeger.json або UserSaves.json).",
+    "ImportLegacyProfilesCount": "Профілів/акаунтів: {0}",
+    "ImportLegacySettingsDone": "Налаштування оновлено",
+    "ImportLegacyPhrasesDone": "Кастомні фрази перенесено"
   },
   "Mods": {
     "SourceTitle": "Джерело",
