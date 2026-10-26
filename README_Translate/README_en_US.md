@@ -16,6 +16,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=for-the-badge)![Download](https://img.shields.io/github/downloads/WER-CORE/CL-Win-Edition--Update/total?style=for-the-badge&color=green)
 ![MADE WITH LOVE TOWARDS UKRAINE](https://img.shields.io/badge/MADE_IN-UKRAINE-ffd700?style=for-the-badge&labelColor=0057b7)
 [![Discord](https://img.shields.io/discord/1234567890?style=for-the-badge&label=Discord&logo=discord&color=5865F2)](https://discord.gg/RhyZjACs2U)
+[![SignPath.io](https://img.shields.io/badge/Code%20Signing-SignPath.io-blue?style=for-the-badge&logo=windows)](https://signpath.org)
 
 **Modern, optimized launcher for Minecraft: Java Edition. To each his own! 🇺🇦**
 
