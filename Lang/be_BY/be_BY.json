@@ -867,7 +867,9 @@
     "WorldPrefix": "Світ: {0}",
     "RoomCodeTitle": "Код кімнати (передайте друзям):",
     "CopyBtn": "Скапіяваць",
-    "IpProtectedHint": "Ваша IP-адреса надійно прихована від сторонніх очей та стрімів.",
+    "DirectAddressLabel": "IP адреса",
+    "CopyDirectAddressBtn": "Скопіювати IP",
+    "DirectAddressCopied": "IP скопійовано",
     "ConnectedPlayersTitle": "Підключені гравці ({0}):",
     "WaitingPlayers": "Очікування підключення гравців...",
     "KickTooltip": "Відключити гравця",
@@ -910,6 +912,7 @@
     "ModpackDownloadFailDesc": "Не вдалося автоматично знайти або завантажити збірку «{0}».\n\nБудь ласка, встановіть або імпортуйте її у вкладці «Збірки».",
     "JoinCancelledNoModpack": "Приєднання скасовано: відсутня потрібна збірка.",
     "ConnectError": "Помилка підключення: {0}",
-    "RoomCodeCopied": "Код кімнати скопійовано в буфер обміну!"
+    "RoomCodeCopied": "Код скопійовано",
+    "UnsupportedVersion": "Спільна гра підтримується для версій Minecraft 1.7.2 та новіших."
   }
 }
