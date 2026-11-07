@@ -572,7 +572,10 @@
     "CheckError": "Update check failed: {0}",
     "FailedError": "Update failed: {0}",
     "MigratingStatus": "Migrating configuration...",
-    "BtnUpdate": "Download & Update"
+    "BtnUpdate": "Download & Update",
+    "BtnRemindLater": "Remind me later",
+    "BtnSkipVersion": "Skip this version",
+    "BtnUpdateFlatpak": "Download update (Flatpak)"
   },
   "Eula": {
     "WindowTitle": "Community Rules & License Agreement",
