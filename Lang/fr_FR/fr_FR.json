@@ -572,7 +572,10 @@
     "CheckError": "Помилка перевірки: {0}",
     "FailedError": "Помилка оновлення: {0}",
     "MigratingStatus": "Перенесення налаштувань...",
-    "BtnUpdate": "Завантажити та Оновити"
+    "BtnUpdate": "Завантажити та Оновити",
+    "BtnRemindLater": "Нагадати пізніше",
+    "BtnSkipVersion": "Пропустити цю версію",
+    "BtnUpdateFlatpak": "Завантажити оновлення (Flatpak)"
   },
   "Eula": {
     "WindowTitle": "Угода",
