@@ -51,7 +51,8 @@
     "ToolTipGallery": "Screenshots",
     "AskResetOptions": "Are you sure you want to reset the game settings? This will reset the controls, sound, and graphics settings to defaults.",
     "SuccessResetOptions": "Game settings were successfully reset!",
-    "OptionsNotFound": "The settings file could not be found. It seems like the instance was never launched to generate it."
+    "OptionsNotFound": "The settings file could not be found. It seems like the instance was never launched to generate it.",
+    "ToolTipRefresh": "Refresh"
   },
   "Versions": {
     "Release": "Release",
@@ -76,7 +77,9 @@
     "ToolTipChangelog": "Click to read the list of changes for this version",
     "ToolTipVersionSelect": "Click to find out what versions are there to choose from",
     "ChangelogErrorTitle": "No news",
-    "ChangelogErrorDesc": "Sorry, but I couldn't get the newest changelog.\nYou probably lost connection, or Mojang's servers are down.\n\nError details: {0}"
+    "ChangelogErrorDesc": "Sorry, but I couldn't get the newest changelog.\nYou probably lost connection, or Mojang's servers are down.\n\nError details: {0}",
+    "LoadMore": "Load more",
+    "ToolTipLoadMore": "Load next versions"
   },
   "ChangelogWindow": {
     "UpdateTitle": "Update: {0}",
@@ -94,7 +97,9 @@
     "Loading": "Loading...",
     "Continue": "Continue",
     "Cancel": "Cancel",
-    "Close": "Close"
+    "Close": "Close",
+    "Back": "Back",
+    "Success": "Success"
   },
   "Context": {
     "OpenFolder": "Open folder...",
@@ -117,7 +122,8 @@
   "Credits": {
     "Title": "Creators & Community",
     "CloseBtn": "Close",
-    "Loading": "CL is looking for a list of our heroes..."
+    "Loading": "CL is looking for a list of our heroes...",
+    "LoadError": "Oops, failed to load the list from the internet.\nBut we are still endlessly grateful to everyone who helps us! (´• ω •`)"
   },
   "Settings": {
     "Minecraft": "Minecraft",
@@ -227,7 +233,21 @@
     "ImportLegacySettingsDone": "Settings updated",
     "ImportLegacyPhrasesDone": "Custom loading phrases transferred",
     "ImportLegacyModpacksCount": "Instances transferred: {0}",
-    "ImportLegacyFilesCount": "Data folder files: {0}"
+    "ImportLegacyFilesCount": "Data folder files: {0}",
+    "BtnCheckUpdates": "Check for updates",
+    "ChannelPreview": "Preview (Pre-release / Beta)",
+    "ChannelStable": "Stable (Release)",
+    "CheckingUpdates": "Checking for updates...",
+    "FontDesc": "Choose the font style used to display text in the launcher",
+    "FontTitle": "Interface Font",
+    "HelpTranslate": "How to help with translation?",
+    "LatestVersionInstalled": "You have the latest version",
+    "UpdateChannelDesc": "Choose between the stable release or preview (Beta) with early access to new features",
+    "UpdateChannelTitle": "Update Channel",
+    "UpdateCheckDesc": "Current version: {0}",
+    "UpdateCheckError": "Update check failed",
+    "UpdateCheckTitle": "Launcher Updates",
+    "UpdateFound": "Available: v{0}"
   },
   "Mods": {
     "SourceTitle": "Source",
@@ -265,7 +285,10 @@
     "ArchiveEmptyTitle": "Empty",
     "ArchiveEmptyDesc": "Strange! I looked through all the archives, but I did not find any files for this project.",
     "MapInstalled": "The map is downloaded and installed!",
-    "FileInstalled": "File installed in {0}!"
+    "FileInstalled": "File installed in {0}!",
+    "EmptySearch": "The search did not return any results (or end of the list).",
+    "ModVersionSelectionTitle": "Mod version select",
+    "SelectFolder": "Select download folder"
   },
   "Modpacks": {
     "GlobalFolder": "Global (.ClMinecraft)",
@@ -427,7 +450,17 @@
     "RepairModpackDesc": "Scans and redownloads missing mods (if any were accidentally deleted)",
     "RepairModpackBtn": "Restore",
     "RepairModpackDialogTitle": "Instance Repair",
-    "RepairModpackDialogMessage": "The instance will be verified and repaired upon the next game launch!"
+    "RepairModpackDialogMessage": "The instance will be verified and repaired upon the next game launch!",
+    "DeleteFileTooltip": "Delete file",
+    "DeleteFolderError": "Could not completely delete modpack files. Another program (or the game itself) might still be using them.\nTry again later or delete the folder manually.",
+    "ExportPreparing": "Preparing files...",
+    "ExportProgress": "Export: {0:F0}%",
+    "JavaAutoPlaceholder": "Automatic Java detection (default)",
+    "ModpackBrowseBtn": "Browse",
+    "ModpackEditDatapacks": "Datapacks",
+    "ResetJavaTooltip": "Reset to auto-detect",
+    "SearchToolTip": "Enter a name to search",
+    "SelectJavaTitle": "Select Java executable (javaw.exe or java)"
   },
   "Gallery": {
     "OpenFolderBtn": "Open folder",
@@ -480,7 +513,15 @@
     "ForbiddenErrorTitle": "Access Restricted",
     "ForbiddenErrorDesc": "Access is forbidden. This might be a child account with Family Safety restrictions enabled.",
     "UnknownErrorTitle": "Unknown Error",
-    "UnknownErrorDesc": "Something went wrong during authorization:\n{0}"
+    "UnknownErrorDesc": "Something went wrong during authorization:\n{0}",
+    "DeviceCodeHint": "Open {0} and enter code {1}",
+    "NeedAuth": "Authentication required",
+    "NoAzureClientId": "CLIENT_ID_AZURE is not configured in this build, so Microsoft sign-in is unavailable.",
+    "NoStats": "No game statistics yet",
+    "SessionExpired": "Your Microsoft session has expired.\nPlease remove this account and sign in again.",
+    "StatsModded": "Modded",
+    "StatsServers": "Servers",
+    "StatsVanilla": "Vanilla"
   },
   "Fundraisers": {
     "Title": "ACTIVE FUNDRAISERS",
@@ -521,7 +562,8 @@
     "DeleteError": "Could not delete file.",
     "UrlOpenErrorTitle": "Browser error",
     "UrlOpenErrorDesc": "Couldn't open the link.\nDetails: {0}",
-    "EmptyTitle": "Empty"
+    "EmptyTitle": "Empty",
+    "Confirm": "Confirmation"
   },
   "Backups": {
     "ManagerTitle": "World backup manager",
@@ -551,7 +593,8 @@
     "SelectJavaTitle": "Select javaw.exe file",
     "ImageFilter": "Images (*.png;*.jpg;*.jpeg)|*.png;*.jpg;*.jpeg",
     "SelectIconTitle": "Select an icon for the instance",
-    "IconSaveError": "Error setting instance icon: {0}"
+    "IconSaveError": "Error setting instance icon: {0}",
+    "NoBackupsForWorld": "There are no backups for this world yet"
   },
   "Updater": {
     "WindowTitle": "CL Launcher update",
@@ -616,7 +659,10 @@
     "DownloadAndAddBtn": "Download & Add",
     "InstallModTitle": "Install Mod",
     "SelectFileVersionTitle": "Select file version:",
-    "ManualDownloadAskDesc": "Failed to download {0}. Open browser?"
+    "ManualDownloadAskDesc": "Failed to download {0}. Open browser?",
+    "AddToQueue": "Add to queue",
+    "InstallSelectedContent": "INSTALL SELECTED CONTENT",
+    "OpenPageTooltip": "Open page"
   },
   "GameLaunch": {
     "MemoryCheckErrorTitle": "How Much Memory?",
@@ -677,7 +723,9 @@
     "PlayBtnPlayIn": "PLAY IN ({0})",
     "OptifineErrorTitle": "Optifine Error",
     "OptifineNotSelectedDesc": "Hold on! What exactly are we launching?\nYou forgot to pick both Minecraft and OptiFine versions.\n\nSelect them in the lists and let's go!",
-    "CrashDesc": "Oh no! Minecraft crashed (Exit code: {0}).\nI've opened the log output so we can diagnose the conflicting mod or error."
+    "CrashDesc": "Oh no! Minecraft crashed (Exit code: {0}).\nI've opened the log output so we can diagnose the conflicting mod or error.",
+    "CrashTitle": "Game crashed!",
+    "VanilaNotSelectedDesc": "Wait a second! What are we launching?\nYou forgot to select a Minecraft version from the list.\n\nClick the version you want, and let's go!"
   },
   "ThemesCustomization": {
     "ThemeError": "Theme error: {0}",
@@ -714,7 +762,10 @@
     "ImportLoadScreenSuccessDesc": "Loading screen theme updated!\nRestart the launcher to apply the changes.",
     "ImportLoadScreenError": "Failed to import LoadScreen theme: {0}",
     "CopyThemeSuccess": "Theme code copied to clipboard!",
-    "CopyScreenSuccess": "LoadScreen code copied to clipboard!"
+    "CopyScreenSuccess": "LoadScreen code copied to clipboard!",
+    "ExportTitle": "Export",
+    "ImportScreenErrorDesc": "Failed to import LoadScreen theme: {0}",
+    "ImportThemeErrorDesc": "Import error: {0}"
   },
   "AI": {
     "EmptyLog": "Log is empty. No data available to analyze.",
@@ -774,7 +825,9 @@
     "AiSystemOfflineMode": "[SYSTEM]: Player is running an Offline account...",
     "AiSystemUserComment": "\n[PLAYER NOTE]: \"{0}\"\n",
     "AiSystemCrashLogPrefix": "[LOG FILE]",
-    "AiSystemCrashError": "System crash failure: {0}"
+    "AiSystemCrashError": "System crash failure: {0}",
+    "NoApiKey": "API key or proxy is not configured. Please configure UserSecrets in Visual Studio.",
+    "ServerError": "CL proxy server error: {0}"
   },
   "DiscordRPC": {
     "Details": "Minecraft Launcher",
@@ -784,7 +837,9 @@
     "SearchingMods": "Browsing mods",
     "ViewingModpacks": "Browsing instances",
     "ViewingServers": "Browsing server list",
-    "ViewingGallery": "Viewing gallery"
+    "ViewingGallery": "Viewing gallery",
+    "InSettings": "In settings",
+    "ViewingNews": "Reading news"
   },
   "Servers": {
     "UnknownServer": "Unknown Server",
@@ -917,5 +972,15 @@
     "ConnectError": "Connection error: {0}",
     "RoomCodeCopied": "Code copied",
     "UnsupportedVersion": "P2P multiplayer is supported on Minecraft 1.7.2 and newer."
+  },
+  "GameLog": {
+    "EndOfLog": "\n[System]: --- END OF LOG STREAM ---",
+    "FileNotFound": "[System]: Log file could not be located at:\n{0}",
+    "ReadError": "\n[System]: An error occurred while reading the log file:\n{0}",
+    "ReadingCrashLog": "[System]: Reading game log (latest.log)...\n"
+  },
+  "History": {
+    "Server": "Server",
+    "Version": "Version"
   }
 }
