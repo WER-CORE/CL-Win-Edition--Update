@@ -51,7 +51,8 @@
     "ToolTipGallery": "Скрыншоты",
     "AskResetOptions": "Ви дійсно хочете скинути налаштування гри? Це скине керування, звук та графіку до стандартних.",
     "SuccessResetOptions": "Налаштування гри успішно скинуто!",
-    "OptionsNotFound": "Файл налаштувань не знайдено. Схоже, ви ще жодного разу не запускали цю збірку."
+    "OptionsNotFound": "Файл налаштувань не знайдено. Схоже, ви ще жодного разу не запускали цю збірку.",
+    "ToolTipRefresh": "Оновити"
   },
   "Versions": {
     "Release": "Рэліз",
@@ -76,7 +77,9 @@
     "ToolTipChangelog": "Натисніть, щоб прочитати список змін цієї версії",
     "ToolTipVersionSelect": "Натисніть, щоб дізнатися, які є версії на вибір",
     "ChangelogErrorTitle": "Немає новин",
-    "ChangelogErrorDesc": "Прабач, але я не змагла атрымаць апошні выпуск навін (Changelog).\nМагчыма, інтэрнэт знік альбо серверы Mojang стаміліся адказваць.\n\nВось што адбылося: {0}"
+    "ChangelogErrorDesc": "Прабач, але я не змагла атрымаць апошні выпуск навін (Changelog).\nМагчыма, інтэрнэт знік альбо серверы Mojang стаміліся адказваць.\n\nВось што адбылося: {0}",
+    "LoadMore": "Завантажити ще",
+    "ToolTipLoadMore": "Завантажити наступні версії"
   },
   "ChangelogWindow": {
     "UpdateTitle": "Оновлення: {0}",
@@ -94,7 +97,9 @@
     "Loading": "Загрузка...",
     "Continue": "Продовжити",
     "Cancel": "Скасувати",
-    "Close": "Закрыць"
+    "Close": "Закрыць",
+    "Back": "Повернутись",
+    "Success": "Поспех"
   },
   "Context": {
     "OpenFolder": "Адкрыць папку...",
@@ -117,7 +122,8 @@
   "Credits": {
     "Title": "Автори та Спільнота",
     "CloseBtn": "Закрыць",
-    "Loading": "Сіель шукає список наших героїв..."
+    "Loading": "Сіель шукає список наших героїв...",
+    "LoadError": "Ой, не вдалося завантажити список з інтернету.\nАле ми все одно безмежно вдячні всім, хто нам допомагає! (´• ω •`)"
   },
   "Settings": {
     "Minecraft": "Майнкрафт",
@@ -227,7 +233,21 @@
     "ImportLegacySettingsDone": "Налаштування оновлено",
     "ImportLegacyPhrasesDone": "Кастомні фрази перенесено",
     "ImportLegacyModpacksCount": "Збірок перенесено: {0}",
-    "ImportLegacyFilesCount": "Файлів із папки Data: {0}"
+    "ImportLegacyFilesCount": "Файлів із папки Data: {0}",
+    "BtnCheckUpdates": "Перевірити оновлення",
+    "ChannelPreview": "Тестовий (Pre-release / Beta)",
+    "ChannelStable": "Стабільний (Release)",
+    "CheckingUpdates": "Перевірка оновлень...",
+    "FontDesc": "Виберіть стиль шрифту для відображення тексту в лаунчері",
+    "FontTitle": "Шрифт інтерфейсу",
+    "HelpTranslate": "Як допомогти з перекладом?",
+    "LatestVersionInstalled": "У вас найновіша версія",
+    "UpdateChannelDesc": "Вибір стабільної версії або тестової (Beta) з раннім доступом до нових функцій",
+    "UpdateChannelTitle": "Канал оновлень",
+    "UpdateCheckDesc": "Поточна версія: {0}",
+    "UpdateCheckError": "Помилка перевірки оновлень",
+    "UpdateCheckTitle": "Оновлення лаунчера",
+    "UpdateFound": "Доступно: v{0}"
   },
   "Mods": {
     "SourceTitle": "Джерело",
@@ -265,7 +285,10 @@
     "ArchiveEmptyTitle": "Пусто",
     "ArchiveEmptyDesc": "Дивина! Я перерила усі архіви, але не знайшла жодного файлу для цього проекту.",
     "MapInstalled": "Мапа завантажена та розпакована!",
-    "FileInstalled": "Файл встановлено у {0}!"
+    "FileInstalled": "Файл встановлено у {0}!",
+    "EmptySearch": "Пошук не дав результатів (або кінець списку).",
+    "ModVersionSelectionTitle": "Выбар версіі",
+    "SelectFolder": "Виберіть папку для завантаження"
   },
   "Modpacks": {
     "GlobalFolder": "Глобальні (.ClMinecraft)",
@@ -427,7 +450,17 @@
     "RepairModpackDesc": "Перевіряє та завантажує відсутні моди (якщо ви їх випадково видалили)",
     "RepairModpackBtn": "Відновити",
     "RepairModpackDialogTitle": "Відновлення збірки",
-    "RepairModpackDialogMessage": "Збірку буде перевірено та відновлено при наступному запуску гри!"
+    "RepairModpackDialogMessage": "Збірку буде перевірено та відновлено при наступному запуску гри!",
+    "DeleteFileTooltip": "Видалити файл",
+    "DeleteFolderError": "Не вдалося повністю видалити файли збірки. Можливо, якась програма (або сама гра) досі використовує ці файли.\nСпробуйте пізніше або видаліть папку вручну.",
+    "ExportPreparing": "Підготовка файлів...",
+    "ExportProgress": "Експорт: {0:F0}%",
+    "JavaAutoPlaceholder": "Автоматичний пошук Java (за замовчуванням)",
+    "ModpackBrowseBtn": "Агляд",
+    "ModpackEditDatapacks": "Датапакі",
+    "ResetJavaTooltip": "Скинути до авто-пошуку",
+    "SearchToolTip": "Введіть назву для пошуку",
+    "SelectJavaTitle": "Оберіть виконуваний файл Java (javaw.exe або java)"
   },
   "Gallery": {
     "OpenFolderBtn": "Відкрити папку",
@@ -480,7 +513,15 @@
     "ForbiddenErrorTitle": "Доступ закрито",
     "ForbiddenErrorDesc": "Доступ заборонено. Можливо, це дитячий акаунт з обмеженнями Family Safety.",
     "UnknownErrorTitle": "Невідома помилка",
-    "UnknownErrorDesc": "Щось пішло не так під час авторизації:\n{0}"
+    "UnknownErrorDesc": "Щось пішло не так під час авторизації:\n{0}",
+    "DeviceCodeHint": "Відкрийте {0} та введіть код {1}",
+    "NeedAuth": "Потрібна авторизація",
+    "NoAzureClientId": "У цій збірці не налаштовано CLIENT_ID_AZURE, тому вхід через Microsoft недоступний.",
+    "NoStats": "Немає статистики гри",
+    "SessionExpired": "Час вашої сесії Microsoft минув.\nБудь ласка, видаліть цей акаунт і увійдіть знову.",
+    "StatsModded": "З модами",
+    "StatsServers": "Серверы",
+    "StatsVanilla": "Ванілла"
   },
   "Fundraisers": {
     "Title": "АКТУАЛЬНІ ЗБОРИ",
@@ -521,7 +562,8 @@
     "DeleteError": "Не вдалося видалити файл.",
     "UrlOpenErrorTitle": "Помилка браузера",
     "UrlOpenErrorDesc": "Не вдалося відкрити посилання.\nДеталі: {0}",
-    "EmptyTitle": "Пусто"
+    "EmptyTitle": "Пусто",
+    "Confirm": "Підтвердження"
   },
   "Backups": {
     "ManagerTitle": "Менеджер бекапів світів",
@@ -551,7 +593,8 @@
     "SelectJavaTitle": "Оберіть файл javaw.exe",
     "ImageFilter": "Зображення (*.png;*.jpg;*.jpeg)|*.png;*.jpg;*.jpeg",
     "SelectIconTitle": "Оберіть іконку для збірки",
-    "IconSaveError": "Помилка встановлення іконки: {0}"
+    "IconSaveError": "Помилка встановлення іконки: {0}",
+    "NoBackupsForWorld": "Для цього світу ще немає копій"
   },
   "Updater": {
     "WindowTitle": "Оновлення CL Launcher",
@@ -616,7 +659,10 @@
     "DownloadAndAddBtn": "Завантажити та Додати",
     "InstallModTitle": "Встановлення мода",
     "SelectFileVersionTitle": "Оберіть версію файлу:",
-    "ManualDownloadAskDesc": "Не вдалося скачати {0}. Відкрити браузер?"
+    "ManualDownloadAskDesc": "Не вдалося скачати {0}. Відкрити браузер?",
+    "AddToQueue": "Додати до черги",
+    "InstallSelectedContent": "ВСТАНОВИТИ ОБРАНИЙ КОНТЕНТ",
+    "OpenPageTooltip": "Відкрити сторінку"
   },
   "GameLaunch": {
     "MemoryCheckErrorTitle": "Скільки пам'яті?",
@@ -677,7 +723,9 @@
     "PlayBtnPlayIn": "ГРАЦЬ В ({0})",
     "OptifineErrorTitle": "Помилка Optifine",
     "OptifineNotSelectedDesc": "Секундочку! А що саме ми запускаємо?\nТи забув обрати версію Minecraft та OptiFine у списках.\n\nТицьни на потрібні версії, і погнали!",
-    "CrashDesc": "Йой! Майнкрафт впав (Код помилки: {0}).\nЯ відкрила логи, щоб ми могли знайти конфліктний мод або помилку."
+    "CrashDesc": "Йой! Майнкрафт впав (Код помилки: {0}).\nЯ відкрила логи, щоб ми могли знайти конфліктний мод або помилку.",
+    "CrashTitle": "Краш гри!",
+    "VanilaNotSelectedDesc": "Секундочку! А що саме ми запускаємо?\nТи забув обрати версію Minecraft у списку.\n\nТицьни на потрібну версію, і погнали!"
   },
   "ThemesCustomization": {
     "ThemeError": "Помилка теми: {0}",
@@ -714,7 +762,10 @@
     "ImportLoadScreenSuccessDesc": "Екран завантаження оновлено!\nПерезапустіть лаунчер, щоб побачити зміни.",
     "ImportLoadScreenError": "Помилка імпорту LoadScreen: {0}",
     "CopyThemeSuccess": "Код теми скопійовано!",
-    "CopyScreenSuccess": "Код LoadScreen скопійовано!"
+    "CopyScreenSuccess": "Код LoadScreen скопійовано!",
+    "ExportTitle": "Експорт",
+    "ImportScreenErrorDesc": "Помилка імпорту LoadScreen: {0}",
+    "ImportThemeErrorDesc": "Помилка імпорту: {0}"
   },
   "AI": {
     "EmptyLog": "Лог порожній. Немає даних для аналізу.",
@@ -774,7 +825,9 @@
     "AiSystemOfflineMode": "[СИСТЕМА]: Гравець використовує Офлайн-акаунт...",
     "AiSystemUserComment": "\n[КОМЕНТАР ГРАВЦЯ]: \"{0}\"\n",
     "AiSystemCrashLogPrefix": "\n[LOG FILE]\n",
-    "AiSystemCrashError": "Збій системи: {0}"
+    "AiSystemCrashError": "Збій системи: {0}",
+    "NoApiKey": "API-ключ або проксі не налаштовано. Налаштуйте UserSecrets у Visual Studio.",
+    "ServerError": "Помилка проксі-сервера CL: {0}"
   },
   "DiscordRPC": {
     "Details": "Український лаунчер майнкрафт",
@@ -784,7 +837,9 @@
     "SearchingMods": "Шукає моди",
     "ViewingModpacks": "Дивиться збірки",
     "ViewingServers": "Дивиться список серверів",
-    "ViewingGallery": "Переглядає галерею"
+    "ViewingGallery": "Переглядає галерею",
+    "InSettings": "В налаштуваннях",
+    "ViewingNews": "Читає новини"
   },
   "Servers": {
     "UnknownServer": "Невідомий сервер",
@@ -917,5 +972,15 @@
     "ConnectError": "Помилка підключення: {0}",
     "RoomCodeCopied": "Код скопійовано",
     "UnsupportedVersion": "Спільна гра підтримується для версій Minecraft 1.7.2 та новіших."
+  },
+  "GameLog": {
+    "EndOfLog": "\n[Система]: --- КІНЕЦЬ ЛОГУ ---",
+    "FileNotFound": "[Система]: Не вдалося знайти файл логів за шляхом:\n{0}",
+    "ReadError": "\n[Система]: Сталася помилка при спробі прочитати лог-файл:\n{0}",
+    "ReadingCrashLog": "[Система]: Читання посмертного логу (latest.log)...\n"
+  },
+  "History": {
+    "Server": "Сервер",
+    "Version": "Версія"
   }
 }
