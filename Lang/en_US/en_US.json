@@ -460,7 +460,22 @@
     "ModpackEditDatapacks": "Datapacks",
     "ResetJavaTooltip": "Reset to auto-detect",
     "SearchToolTip": "Enter a name to search",
-    "SelectJavaTitle": "Select Java executable (javaw.exe or java)"
+    "SelectJavaTitle": "Select Java executable (javaw.exe or java)",
+    "AskResetOptions": "Are you sure you want to reset the game settings? This will reset the controls, sound, and graphics settings to defaults.",
+    "SuccessResetOptions": "Game settings were successfully reset!",
+    "OptionsNotFound": "The settings file could not be found. It seems like the instance was never launched to generate it.",
+    "McVersionChangeWarning": "Changing the Minecraft version for an existing instance may break compatibility with installed mods! Are you sure you want to continue?",
+    "McVersionSelectHeader": "Select game version:",
+    "ResourcePacksTitle": "Resource Packs",
+    "MapsTitle": "Worlds",
+    "DoneTitle": "Done!",
+    "AlreadyExistsTitle": "Already in",
+    "ImportArchiveTooltip": "Import a modpack from a .zip or a .mrpack file",
+    "SearchModrinthTooltip": "Search on Modrinth",
+    "SearchCurseForgeTooltip": "Search on CurseForge",
+    "DownloadSelectedTooltip": "Start downloading the chosen version",
+    "DeleteConfirmMsg": "Are you sure you want to delete instance {0}?",
+    "ExportCancelled": "Modpack export cancelled, temporary archive deleted."
   },
   "Gallery": {
     "OpenFolderBtn": "Open folder",
@@ -468,7 +483,8 @@
     "EmptyDesc": "Take a screenshot in-game (F2), so it appears here",
     "Selected": "CHOSEN",
     "OpenImageBtn": "Open",
-    "DeleteBtn": "Delete"
+    "DeleteBtn": "Delete",
+    "BtnRefreshTooltip": "Refresh list"
   },
   "Accounts": {
     "PlaceholderNickname": "Nickname...",
@@ -521,7 +537,8 @@
     "SessionExpired": "Your Microsoft session has expired.\nPlease remove this account and sign in again.",
     "StatsModded": "Modded",
     "StatsServers": "Servers",
-    "StatsVanilla": "Vanilla"
+    "StatsVanilla": "Vanilla",
+    "DeleteConfirmMsg": "Are you sure you want to delete profile {0}?"
   },
   "Fundraisers": {
     "Title": "ACTIVE FUNDRAISERS",
@@ -563,7 +580,15 @@
     "UrlOpenErrorTitle": "Browser error",
     "UrlOpenErrorDesc": "Couldn't open the link.\nDetails: {0}",
     "EmptyTitle": "Empty",
-    "Confirm": "Confirmation"
+    "Confirm": "Confirmation",
+    "Info": "Information",
+    "JavaFilter": "Java Executable (javaw.exe)|javaw.exe|All Files (*.*)|*.*",
+    "SelectJavaTitle": "Select javaw.exe file",
+    "ImageFilter": "Images (*.png;*.jpg;*.jpeg)|*.png;*.jpg;*.jpeg",
+    "SelectIconTitle": "Select an icon for the instance",
+    "IconSaveError": "Error setting instance icon: {0}",
+    "ErrorDesc": "Error: {0}",
+    "FolderOpenAccessDenied": "Failed to open folder. Windows may have blocked access.\n\nError: {0}"
   },
   "Backups": {
     "ManagerTitle": "World backup manager",
@@ -725,7 +750,8 @@
     "OptifineNotSelectedDesc": "Hold on! What exactly are we launching?\nYou forgot to pick both Minecraft and OptiFine versions.\n\nSelect them in the lists and let's go!",
     "CrashDesc": "Oh no! Minecraft crashed (Exit code: {0}).\nI've opened the log output so we can diagnose the conflicting mod or error.",
     "CrashTitle": "Game crashed!",
-    "VanilaNotSelectedDesc": "Wait a second! What are we launching?\nYou forgot to select a Minecraft version from the list.\n\nClick the version you want, and let's go!"
+    "VanilaNotSelectedDesc": "Wait a second! What are we launching?\nYou forgot to select a Minecraft version from the list.\n\nClick the version you want, and let's go!",
+    "SelectBadge": "SELECT"
   },
   "ThemesCustomization": {
     "ThemeError": "Theme error: {0}",
@@ -971,7 +997,15 @@
     "JoinCancelledNoModpack": "Join cancelled: required instance is missing.",
     "ConnectError": "Connection error: {0}",
     "RoomCodeCopied": "Code copied",
-    "UnsupportedVersion": "P2P multiplayer is supported on Minecraft 1.7.2 and newer."
+    "UnsupportedVersion": "P2P multiplayer is supported on Minecraft 1.7.2 and newer.",
+    "SearchingLanWorlds": "Searching for LAN worlds on network...",
+    "NoLanWorldsFoundAfterWait": "No active LAN worlds found after 5 seconds of scanning. Open your world to LAN in-game or enter the port manually.",
+    "NoLanWorldsFoundShort": "No LAN worlds found",
+    "OpeningRoomStatus": "Detecting version and opening room...",
+    "UnsupportedVersionStatus": "Version not supported for P2P multiplayer (requires 1.7.2+).",
+    "OpenRoomFailedStatus": "Failed to open room. Please check your network connection.",
+    "UnsupportedHostVersionStatus": "Host version is not supported for P2P multiplayer (requires 1.7.2+).",
+    "LaunchingClientStatus": "Launching client and joining world..."
   },
   "GameLog": {
     "EndOfLog": "\n[System]: --- END OF LOG STREAM ---",
@@ -982,5 +1016,16 @@
   "History": {
     "Server": "Server",
     "Version": "Version"
+  },
+  "ThemeSaveErrorTitle": {
+    "ThemeLoadErrorDesc": "Failed to parse theme file.\n{0}",
+    "ThemeLoadErrorTitle": "Error"
+  },
+  "ThemeLoadErrorTitle": {
+    "LoadScreenBgUpdatedDesc": "Awesome! The loading screen is looking sharp now.\nBackground updated successfully!",
+    "LoadScreenBgUpdatedTitle": "New Look"
+  },
+  "ImportThemeSuccessDesc": {
+    "CustomXamlSaveError": "Failed to save custom theme file:\n{0}"
   }
 }

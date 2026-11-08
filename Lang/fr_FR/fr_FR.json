@@ -460,7 +460,22 @@
     "ModpackEditDatapacks": "Датапаки",
     "ResetJavaTooltip": "Скинути до авто-пошуку",
     "SearchToolTip": "Введіть назву для пошуку",
-    "SelectJavaTitle": "Оберіть виконуваний файл Java (javaw.exe або java)"
+    "SelectJavaTitle": "Оберіть виконуваний файл Java (javaw.exe або java)",
+    "AskResetOptions": "Ви дійсно хочете скинути налаштування гри? Це скине керування, звук та графіку до стандартних.",
+    "SuccessResetOptions": "Налаштування гри успішно скинуто!",
+    "OptionsNotFound": "Файл налаштувань не знайдено. Схоже, ви ще жодного разу не запускали цю збірку.",
+    "McVersionChangeWarning": "Зміна версії Minecraft може призвести до несумісності всіх встановлених модів! Ви впевнені, що хочете продовжити?",
+    "McVersionSelectHeader": "Оберіть нову версію:",
+    "ResourcePacksTitle": "Ресурс-паки",
+    "MapsTitle": "Карти",
+    "DoneTitle": "Готово!",
+    "AlreadyExistsTitle": "Вже є",
+    "ImportArchiveTooltip": "Встановити модпак з .zip або .mrpack файлу",
+    "SearchModrinthTooltip": "Шукати на Modrinth",
+    "SearchCurseForgeTooltip": "Шукати на CurseForge",
+    "DownloadSelectedTooltip": "Почати встановлення обраної версії",
+    "DeleteConfirmMsg": "Ви дійсно бажаєте видалити збірку {0}?",
+    "ExportCancelled": "Експорт збірки скасовано, тимчасовий архів видалено."
   },
   "Gallery": {
     "OpenFolderBtn": "Відкрити папку",
@@ -468,7 +483,8 @@
     "EmptyDesc": "Зробіть скріншот у грі (F2), щоб він з'явився тут",
     "Selected": "ВИБРАНО",
     "OpenImageBtn": "Відкрити",
-    "DeleteBtn": "Видалити"
+    "DeleteBtn": "Видалити",
+    "BtnRefreshTooltip": "Оновити список"
   },
   "Accounts": {
     "PlaceholderNickname": "Нік...",
@@ -521,7 +537,8 @@
     "SessionExpired": "Час вашої сесії Microsoft минув.\nБудь ласка, видаліть цей акаунт і увійдіть знову.",
     "StatsModded": "З модами",
     "StatsServers": "Serveurs",
-    "StatsVanilla": "Ванілла"
+    "StatsVanilla": "Ванілла",
+    "DeleteConfirmMsg": "Ви дійсно бажаєте видалити профіль {0}?"
   },
   "Fundraisers": {
     "Title": "АКТУАЛЬНІ ЗБОРИ",
@@ -563,7 +580,15 @@
     "UrlOpenErrorTitle": "Помилка браузера",
     "UrlOpenErrorDesc": "Не вдалося відкрити посилання.\nДеталі: {0}",
     "EmptyTitle": "Пусто",
-    "Confirm": "Підтвердження"
+    "Confirm": "Підтвердження",
+    "Info": "Information",
+    "JavaFilter": "Java Executable (javaw.exe)|javaw.exe|Усі файли (*.*)|*.*",
+    "SelectJavaTitle": "Оберіть файл javaw.exe",
+    "ImageFilter": "Зображення (*.png;*.jpg;*.jpeg)|*.png;*.jpg;*.jpeg",
+    "SelectIconTitle": "Оберіть іконку для збірки",
+    "IconSaveError": "Помилка встановлення іконки: {0}",
+    "ErrorDesc": "Помилка: {0}",
+    "FolderOpenAccessDenied": "Не вдалося відкрити папку. Можливо, Windows заблокувала доступ.\n\nДеталі: {0}"
   },
   "Backups": {
     "ManagerTitle": "Менеджер бекапів світів",
@@ -725,7 +750,8 @@
     "OptifineNotSelectedDesc": "Секундочку! А що саме ми запускаємо?\nТи забув обрати версію Minecraft та OptiFine у списках.\n\nТицьни на потрібні версії, і погнали!",
     "CrashDesc": "Йой! Майнкрафт впав (Код помилки: {0}).\nЯ відкрила логи, щоб ми могли знайти конфліктний мод або помилку.",
     "CrashTitle": "Краш гри!",
-    "VanilaNotSelectedDesc": "Секундочку! А що саме ми запускаємо?\nТи забув обрати версію Minecraft у списку.\n\nТицьни на потрібну версію, і погнали!"
+    "VanilaNotSelectedDesc": "Секундочку! А що саме ми запускаємо?\nТи забув обрати версію Minecraft у списку.\n\nТицьни на потрібну версію, і погнали!",
+    "SelectBadge": "ОБЕРІТЬ"
   },
   "ThemesCustomization": {
     "ThemeError": "Помилка теми: {0}",
@@ -971,7 +997,15 @@
     "JoinCancelledNoModpack": "Приєднання скасовано: відсутня потрібна збірка.",
     "ConnectError": "Помилка підключення: {0}",
     "RoomCodeCopied": "Код скопійовано",
-    "UnsupportedVersion": "Спільна гра підтримується для версій Minecraft 1.7.2 та новіших."
+    "UnsupportedVersion": "Спільна гра підтримується для версій Minecraft 1.7.2 та новіших.",
+    "SearchingLanWorlds": "Пошук LAN-світів у мережі...",
+    "NoLanWorldsFoundAfterWait": "За 5 секунд пошуку активних LAN-світів не знайдено. Відкрийте світ для LAN у грі або введіть порт вручну.",
+    "NoLanWorldsFoundShort": "Світів LAN не знайдено",
+    "OpeningRoomStatus": "Визначення версії та відкриття кімнати...",
+    "UnsupportedVersionStatus": "Версія не підтримується для спільної гри (потрібна 1.7.2+).",
+    "OpenRoomFailedStatus": "Не вдалося відкрити кімнату. Перевірте з'єднання з мережею.",
+    "UnsupportedHostVersionStatus": "Версія хоста не підтримується для спільної гри (потрібна 1.7.2+).",
+    "LaunchingClientStatus": "Запуск клієнта та підключення до світу..."
   },
   "GameLog": {
     "EndOfLog": "\n[Система]: --- КІНЕЦЬ ЛОГУ ---",
@@ -982,5 +1016,16 @@
   "History": {
     "Server": "Serveur",
     "Version": "Version"
+  },
+  "ThemeSaveErrorTitle": {
+    "ThemeLoadErrorDesc": "Не можу прочитати файл теми.\n{0}",
+    "ThemeLoadErrorTitle": "Помилка"
+  },
+  "ThemeLoadErrorTitle": {
+    "LoadScreenBgUpdatedDesc": "Вау! Тепер завантаження виглядатиме стильно.\nФон успішно оновлено!",
+    "LoadScreenBgUpdatedTitle": "Новий стиль"
+  },
+  "ImportThemeSuccessDesc": {
+    "CustomXamlSaveError": "Не вдалося зберегти файл теми:\n{0}"
   }
 }
