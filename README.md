@@ -66,8 +66,8 @@ Clegendary Launcher доступний у двох версіях, які вик
 
 | Версія | Windows | Linux | macOS |
 |---|:---:|:---:|:---:|
-| **CL Avalonia** | ✅ | ✅ | ✅ |
-| **CL WPF** | ✅ | ❌ | ❌ |
+| **CL Avalonia** | ✓ | ✓ | ✓ |
+| **CL WPF** | ✓ | — | — |
 
 **CL Avalonia** — кросплатформена версія лаунчера, що розробляється на Avalonia UI.
 
