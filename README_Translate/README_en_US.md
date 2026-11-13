@@ -1,105 +1,92 @@
 <div align="center">
-  🌍 <b>Read in other languages:</b><br>
-  <a href="/README_Translate/README_en_US.md">🇬🇧 English</a> | 
-  <a href="README.md">🇺🇦 Українська</a> |
-  🇵🇱 Polski (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>) | 
-⬜🟥⬜ Беларуская (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>) |
-  🇨🇿 Čeština (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>) | 
-  🇫🇷 Français (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>)
-</div>
 
-<div align="center">
+**Read in other languages**
 
-# CL-Launcher | CL (Clegendary Launcher)
+[🇬🇧 English](README_en_US.md) · [🇺🇦 Українська](../README.md) · [Help translate CL on Crowdin](https://uk.crowdin.com/project/clegendary-launcher)
 
-![Latest release)](https://img.shields.io/github/v/release/WER-CORE/CL-Win-Edition--Update?style=for-the-badge&color=blue)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=for-the-badge)![Download](https://img.shields.io/github/downloads/WER-CORE/CL-Win-Edition--Update/total?style=for-the-badge&color=green)
-![MADE WITH LOVE TOWARDS UKRAINE](https://img.shields.io/badge/MADE_IN-UKRAINE-ffd700?style=for-the-badge&labelColor=0057b7)
-[![Discord](https://img.shields.io/discord/1234567890?style=for-the-badge&label=Discord&logo=discord&color=5865F2)](https://discord.gg/RhyZjACs2U)
-[![SignPath.io](https://img.shields.io/badge/Code%20Signing-SignPath.io-blue?style=for-the-badge&logo=windows)](https://signpath.org)
+# Clegendary Launcher
 
-**Modern, optimized launcher for Minecraft: Java Edition. To each his own! 🇺🇦**
+An open-source Minecraft: Java Edition launcher developed in Ukraine.
 
-[📥 Download the latest version](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest) • [💻 Source Code](https://github.com/WER-CORE/CL-OpenSource) • [🐛 Report a bug](https://github.com/WER-CORE/CL-Win-Edition--Update/issues) • [💬 Discord](https://discord.gg/RhyZjACs2U)
+[![Latest release](https://img.shields.io/github/v/release/WER-CORE/CL-Win-Edition--Update?style=flat-square)](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/WER-CORE/CL-Win-Edition--Update/total?style=flat-square)](https://github.com/WER-CORE/CL-Win-Edition--Update/releases)
+![Made in Ukraine](https://img.shields.io/badge/Made_in-Ukraine-0057b7?style=flat-square)
+
+[Download](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest) · [Source code](https://github.com/WER-CORE/CL-OpenSource) · [Report an issue](https://github.com/WER-CORE/CL-OpenSource/issues) · [Discord](https://discord.gg/RhyZjACs2U)
 
 </div>
-
----
 
 > [!NOTE]
-> _(Note: This repository is used for distributing updates. The source of this project is available in this repository: [**CL-OpenSource**](https://github.com/WER-CORE/CL-OpenSource))_
+> This repository distributes launcher releases and updates. Development takes place in [CL-OpenSource](https://github.com/WER-CORE/CL-OpenSource).
 
-## ✨ Key features
+## About
 
-- 🔒 **Safe authorization:** Full support for **Microsoft accounts** (Xbox Live) with game ownership verification.
-- ⚡ **Optimization:** Light and fast, uses the least system resources it can.
-- 📦 **Content managing:** User-friendly mod/instance downloader + manager, and client updater.
-- 🎨 **Customization:** Theme support, UI customization and transparency (Acrylic/Mica).
-- 🔄 **Automatic updates:** The launcher automatically checks and installs new stable releases.
+**Clegendary Launcher (CL)** is an open-source launcher for Minecraft: Java Edition. It brings game versions, mod loaders, and community content into one application. The project is developed in Ukraine and welcomes contributions from the community.
+
+## Features
+
+- **Accounts:** Microsoft account sign-in and LittleSkin integration.
+- **Minecraft versions:** Install and launch supported Minecraft: Java Edition releases.
+- **Historical Minecraft:** Access versions from the Pre-Classic, Classic, Indev, Infdev, Alpha, and Beta eras through integration with [BetaCraft](https://betacraft.uk/). Compatibility varies by version, operating system, and Java environment.
+- **Mod loaders:** Support for Forge, Fabric, Quilt, NeoForge, OptiFine, and LiteLoader, subject to version and launcher-edition compatibility.
+- **Mods and modpacks:** Browse and manage content from [Modrinth](https://modrinth.com/) and [CurseForge](https://www.curseforge.com/minecraft).
+- **Launcher settings:** Interface customization and update functionality; available options vary between editions.
+
+## Launcher editions
+
+CL is developed with two user interfaces:
+
+| Edition | Windows | Linux | macOS |
+| --- | :---: | :---: | :---: |
+| **CL Avalonia** | ✓ | ✓ | ✓ |
+| **CL WPF** | ✓ | — | — |
+
+**CL Avalonia** is the cross-platform edition built with Avalonia UI. **CL WPF** uses Windows Presentation Foundation and runs on Windows only. Check each release's notes and attached files to see which editions and operating systems are available in that release. Cross-platform builds do not imply that every Minecraft version or feature has been tested on every OS.
+
+## Screenshots
 
 <div align="center">
-  <img width="750" height="438" alt="image" src="https://github.com/user-attachments/assets/5ced7771-34d4-4cbc-a6ad-2ff1f0d99187" />
-  <img width="1200" height="678" alt="image" src="https://github.com/user-attachments/assets/17e30bad-b199-4439-b832-7d8d59178b1b" />
-  <p><i>Screenshots of the version 1.0.0.2R</i></p>
+  <img width="750" alt="Clegendary Launcher interface screenshot" src="https://github.com/user-attachments/assets/5ced7771-34d4-4cbc-a6ad-2ff1f0d99187" />
+  <img width="1200" alt="Clegendary Launcher interface screenshot" src="https://github.com/user-attachments/assets/17e30bad-b199-4439-b832-7d8d59178b1b" />
+  <p><sub>Archive screenshots from version 1.0.0.2R. The current interface may differ.</sub></p>
 </div>
 
----
+## Download and installation
 
-## 📥 How to download & install
+1. Open the [latest release](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest).
+2. Read the release notes and select the package intended for your operating system and launcher edition.
+3. Download the file and follow the installation instructions included with that release.
 
-All stable releases are published in the **Releases** tab of this repository.
+> [!IMPORTANT]
+> Download CL only from official project links. Current installers are not digitally signed, so Windows may display an **Unknown publisher** or SmartScreen warning. Confirm that the download came from the official release page; do not bypass security warnings if you are unsure about a file's origin.
 
-1. Go to the [**Releases**](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest) tab (to the right).
-2. Download the last file `CLSetup.exe` (or a.zip archive).
-3. Launch the file.
+There is no published, verified minimum hardware specification for CL at this time. Minecraft itself may require an appropriate Java version and additional system resources depending on the game version and installed content.
 
-> [!WARNING]
-> **Windows SmartScreen:**
-> If Windows gives you a popup "System protected your PC", press **"More info" -> "Run anyway"**.
-> _This is the normal behavior for new apps that do not yet have an expensive digital signature_
+## Support and contributions
 
----
+Found a bug or have an idea? Open an [issue in the source repository](https://github.com/WER-CORE/CL-OpenSource/issues) or join the [Discord community](https://discord.gg/RhyZjACs2U).
 
-## 🛠 System requirements
+Want to help with localization? Visit the [Crowdin translation project](https://uk.crowdin.com/project/clegendary-launcher).
 
-| Component   | Minimal / Recommended                                                                                  |
-| :---------- | :----------------------------------------------------------------------------------------------------- |
-| **OS**      | Windows 10/11 (x64) \\| Windows 7/8/8.1 (x86)\* |
-| **Java**    | Java 17 or newer (Java is automatically downloaded in the newer versions)           |
-| **Runtime** | Microsoft .NET 8.0 Desktop Runtime                                     |
+## Credits and licenses
 
----
+CL uses third-party libraries, services, and assets. We thank their maintainers and contributors, including:
 
-## 📜 Credits & Licenses
+- **BetaCraft** — for preserving historical Minecraft versions and providing historical metadata and compatibility tools that make CL's historical-version support possible. [Website](https://betacraft.uk/) · [GitHub](https://github.com/betacraftuk). CL is an independent project and is not officially affiliated with BetaCraft.
+- **Modrinth and CurseForge** — for their mod and modpack ecosystems.
+- **Forge, Fabric, Quilt, NeoForge, OptiFine, and LiteLoader** — for their work on Minecraft mod loading.
+- **Google Fonts, Material Icons, Fluent System Icons, and WPF UI** — for design resources and interface components used across the project and its editions.
 
-This project uses assets and libraries from various sources. We are grateful to the creators for their work.
+The launcher is free. The project may offer paid server promotion to support development; this does not restrict core end-user functionality.
 
-### Icons & UI
+See the [source repository](https://github.com/WER-CORE/CL-OpenSource) for project licensing and additional third-party notices.
 
-- **Google Fonts & Material Icons** (Apache License 2.0) © Google.
-- **WPF UI & Fluent System Icons** (MIT License) © Microsoft Corporation.
+## Disclaimer
 
-### Modloaders & Services
+Clegendary Launcher is not affiliated with, endorsed by, or sponsored by Mojang Studios or Microsoft. Minecraft is a trademark of its respective owners.
 
-- **NeoForge, Fabric, Quilt, Forge, OptiFine, LiteLoader** logos are property of their respective owners and used for identification.
-- **CurseForge** & **Modrinth** icons are used to indicate mod sources.
+<div align="center">
 
-### General Disclaimer
+Developed in Ukraine. If you find CL useful, consider starring the [source repository](https://github.com/WER-CORE/CL-OpenSource).
 
-- **Usage of Libraries:** All third-party libraries and assets are used strictly for functionality.
-- **Monetization:** The launcher is free. We offer paid server promotion (Partners) to cover development costs, which does not restrict end-user functionality.
-
----
-
-## 📞 Support & Contact
-
-If you encountered a bug/problem or you have suggestions:
-
-- 🐛 **Bug reports:** [Issues](https://github.com/WER-CORE/CL-Win-Edition--Update/issues)
-- 💬 **Community:** [Discord Server](https://discord.gg/RhyZjACs2U)
-
----
-
-## ⚖️ Disclaimer
-
-_This application is not affiliated with Mojang Studios or Microsoft. Minecraft is a trademark of Mojang Synergies AB._
+</div>
