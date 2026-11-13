@@ -51,16 +51,16 @@ CL is developed with two user interfaces:
   <p><sub>Archive screenshots from version 1.0.0.2R. The current interface may differ.</sub></p>
 </div>
 
-## Download and installation
-
-1. Open the [latest release](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest).
-2. Read the release notes and select the package intended for your operating system and launcher edition.
-3. Download the file and follow the installation instructions included with that release.
-
 > [!IMPORTANT]
-> Download CL only from official project links. Current installers are not digitally signed, so Windows may display an **Unknown publisher** or SmartScreen warning. Confirm that the download came from the official release page; do not bypass security warnings if you are unsure about a file's origin.
-
-There is no published, verified minimum hardware specification for CL at this time. Minecraft itself may require an appropriate Java version and additional system resources depending on the game version and installed content.
+> **Download Safety**
+>
+> Download Clegendary Launcher only from official sources:
+> - [Official Clegendary Launcher Website](https://cl-launcher.app/)
+> - [GitHub Releases](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest)
+>
+> Since the launcher is currently not digitally signed, Windows SmartScreen may display a warning about an unknown publisher.
+>
+> Before running the application, make sure the file was downloaded from one of these official sources. If you have any doubts about its origin, do not run it.
 
 ## Support and contributions
 
