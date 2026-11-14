@@ -1,107 +1,104 @@
 <div align="center">
-  🌍 <b>Read in other languages:</b><br>
-  <a href="/README_Translate/README_en_US.md">🇬🇧 English</a> | 
-  <a href="README.md">🇺🇦 Українська</a> |
-  🇵🇱 Polski (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>) | 
-⬜🟥⬜ Беларуская (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>) |
-  🇨🇿 Čeština (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>) | 
-  🇫🇷 Français (not available yet, <a href="https://uk.crowdin.com/project/clegendary-launcher">help us out with translation</a>)
-</div>
 
-<div align="center">
+# Clegendary Launcher
 
-# CL-Launcher | CL (Clegendary Launcher)
+**Український лаунчер для Minecraft: Java Edition**
 
-### Windows Edition
+[![Останній реліз](https://img.shields.io/github/v/release/WER-CORE/CL-Win-Edition--Update?label=Реліз&style=flat-square)](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest)
+[![Завантаження](https://img.shields.io/github/downloads/WER-CORE/CL-Win-Edition--Update/total?label=Завантаження&style=flat-square)](https://github.com/WER-CORE/CL-Win-Edition--Update/releases)
+[![Український проєкт](https://img.shields.io/badge/Зроблено_в-Україні-0057b7?style=flat-square)](https://github.com/WER-CORE/CL-OpenSource)
 
-![Latest release)](https://img.shields.io/github/v/release/WER-CORE/CL-Win-Edition--Update?style=for-the-badge&color=blue)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Download](https://img.shields.io/github/downloads/WER-CORE/CL-Win-Edition--Update/total?style=for-the-badge&color=green)
-![MADE WITH LOVE TOWARDS UKRAINE](https://img.shields.io/badge/MADE_IN-UKRAINE-ffd700?style=for-the-badge&labelColor=0057b7)
-[![Discord](https://img.shields.io/discord/1234567890?style=for-the-badge&label=Discord&logo=discord&color=5865F2)](https://discord.gg/RhyZjACs2U)
+[**Завантажити**](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest) · [Вихідний код](https://github.com/WER-CORE/CL-OpenSource) · [Повідомити про проблему](https://github.com/WER-CORE/CL-OpenSource/issues) · [Discord](https://discord.gg/RhyZjACs2U)
 
-**Modern, optimized launcher for Minecraft: Java Edition. To each his own! 🇺🇦**
-
-[📥 Download the latest version](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest) • [💻 Source Code](https://github.com/WER-CORE/CL-OpenSource) • [🐛 Report a bug](https://github.com/WER-CORE/CL-Win-Edition--Update/issues) • [💬 Discord](https://discord.gg/RhyZjACs2U)
+**Мови README:** [Українська](README.md) · [English](README_Translate/README_en_US.md)  
+Переклади іншими мовами: [долучитися на Crowdin](https://uk.crowdin.com/project/clegendary-launcher)
 
 </div>
 
 ---
 
 > [!NOTE]
-> _(Note: This repository is used for distributing updates. The source of this project is available in this repository: [**CL-OpenSource**](https://github.com/WER-CORE/CL-OpenSource))_
+> Це репозиторій **релізів та оновлень** Clegendary Launcher. Вихідний код і матеріали для розробників розміщено в [CL-OpenSource](https://github.com/WER-CORE/CL-OpenSource).
 
-## ✨ Key features
+## Про лаунчер
 
-- 🔒 **Safe authorization:** Full support for **Microsoft accounts** (Xbox Live) with game ownership verification.
-- ⚡ **Optimization:** Light and fast, uses the least system resources it can.
-- 📦 **Content managing:** User-friendly mod/instance downloader + manager, and client updater.
-- 🎨 **Customization:** Theme support, UI customization and transparency (Acrylic/Mica).
-- 🔄 **Automatic updates:** The launcher automatically checks and installs new stable releases.
+**Clegendary Launcher (CL)** — відкритий український лаунчер для Minecraft: Java Edition. Він об'єднує запуск гри, керування версіями та модифікаціями в одному інтерфейсі.
+
+Ми розвиваємо українське програмне забезпечення та прагнемо зробити його зручним для щоденного використання.
+
+## Можливості
+
+- **Версії Minecraft.** Встановлення та запуск підтримуваних версій гри.
+- **Історичні версії.** Pre-Classic, Classic, Indev, Infdev, Alpha та Beta завдяки інтеграції з [BetaCraft](https://betacraft.uk/). Сумісність окремих збірок залежить від ОС і середовища Java.
+- **Моди та контент.** Пошук і встановлення контенту з [Modrinth](https://modrinth.com/) та [CurseForge](https://www.curseforge.com/minecraft).
+- **Завантажувачі модів.** Підтримка кількох екосистем, зокрема Forge, Fabric, Quilt і NeoForge; доступність конкретного завантажувача залежить від версії гри.
+- **Авторизація.** Вхід через підтримувані способи авторизації, зокрема Microsoft Account і LittleSkin.
+- **Налаштування.** Параметри запуску, оформлення та керування встановленими версіями.
+
+## Інтерфейс
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/c2d3ded4-f0fa-4740-a21a-b11e8739a8c2" alt="Main Menu" width="800"/><br><br>
-  <img src="https://github.com/user-attachments/assets/145abf20-8f28-4ffa-9495-217e391818af" alt="Settings Menu" width="800"/>
-  <p><i>Screenshots of the version 0.7.0.7B</i></p>
+  <img width="750" alt="Інтерфейс Clegendary Launcher — скриншот 1" src="https://github.com/user-attachments/assets/ee937845-e937-4756-8809-577f7342e666" />
+  <img width="750" alt="Інтерфейс Clegendary Launcher — скриншот 2" src="https://github.com/user-attachments/assets/18b91731-1da7-4c08-896b-3acca5e2f92f" />
+
+<sub>Архівні скриншоти версії 1.0.0.2R. Інтерфейс актуальних випусків може відрізнятися.</sub>
+
 </div>
 
----
+## Завантаження та встановлення
 
-## 📥 How to download & install
+1. Відкрийте сторінку [останнього релізу](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest).
+2. Перегляньте опис випуску, системні вимоги та список доступних файлів.
+3. Завантажте збірку для своєї операційної системи, якщо вона доступна у випуску.
+4. Встановіть або розпакуйте лаунчер відповідно до інструкцій у релізі.
 
-All stable releases are published in the **Releases** tab of this repository.
+> [!IMPORTANT]
+> **Безпека завантаження**
+>
+> Завантажуйте Clegendary Launcher лише з [офіційного GitHub-репозиторію](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest).
+>
+> Оскільки лаунчер наразі не має цифрового підпису, Windows SmartScreen може показувати попередження про невідомого видавця.
+>
+> Перед запуском переконайтеся, що файл завантажено з офіційного джерела. Якщо маєте сумніви щодо його походження, не запускайте файл.
 
-1. Go to the [**Releases**](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest) tab (to the right).
-2. Download the last file `CLSetup.exe` (or a.zip archive).
-3. Launch the file.
+## Сумісність
 
-> [!WARNING]
-> **Windows SmartScreen:**
-> If Windows gives you a popup "System protected your PC", press **"More info" -> "Run anyway"**.
-> _This is the normal behavior for new apps that do not yet have an expensive digital signature_
+Clegendary Launcher доступний у двох версіях, які використовують різні технології інтерфейсу.
 
----
+| Version         | Windows | Linux | macOS |
+| --------------- | :-----: | :---: | :---: |
+| **CL Avalonia** |    ✅    |   ✅   |   ✅   |
+| **CL WPF**      |    ✅    |   ❌   |   ❌   |
 
-## 🛠 System requirements
+**CL Avalonia** — кросплатформена версія лаунчера, що розробляється на Avalonia UI.
 
-| Component   | Minimal / Recommended                                                                                |
-| :---------- | :--------------------------------------------------------------------------------------------------- |
-| **OS**      | Windows 10/11 (x64) \| Windows 7/8/8.1 (x86)\* |
-| **Java**    | Java 17 or newer (Java is automatically downloaded in the newer versions)         |
-| **Runtime** | Microsoft .NET 8.0 Desktop Runtime                                   |
+**CL WPF** — версія лаунчера на Windows Presentation Foundation, призначена виключно для Windows.
 
----
+Доступність окремих функцій може відрізнятися між версіями. Підтримка конкретної операційної системи не гарантує сумісності з усіма версіями Minecraft.
 
-## 📜 Credits & Licenses
+## Допомога та зворотний зв'язок
 
-This project uses assets and libraries from various sources. We are grateful to the creators for their work.
+Знайшли помилку або маєте пропозицію? Створіть [issue у відкритому репозиторії](https://github.com/WER-CORE/CL-OpenSource/issues) або зверніться до [Discord-спільноти](https://discord.gg/RhyZjACs2U). Для повідомлення про помилку бажано додати версію CL, операційну систему, кроки відтворення.
+Хочете допомогти з локалізацією? Перейдіть на [Crowdin](https://uk.crowdin.com/project/clegendary-launcher).
 
-### Icons & UI
+## Подяки та ліцензії
 
-- **Google Fonts & Material Icons** (Apache License 2.0) © Google.
-- **WPF UI & Fluent System Icons** (MIT License) © Microsoft Corporation.
+Дякуємо авторам бібліотек, сервісів та інструментів, на яких базується Clegendary Launcher, зокрема командам **Modrinth**, **CurseForge**, розробникам підтримуваних завантажувачів модів, а також авторам використаних UI-компонентів та іконок.
 
-### Modloaders & Services
+Окрема подяка **[BetaCraft](https://betacraft.uk/)** ([GitHub](https://github.com/betacraftuk)) за збереження історичних версій Minecraft, архів метаданих та інструменти сумісності. Інтеграція з BetaCraft зробила можливою підтримку історичних версій у CL. Clegendary Launcher — незалежний проєкт, не афілійований із BetaCraft.
 
-- **NeoForge, Fabric, Quilt, Forge, OptiFine, LiteLoader** logos are property of their respective owners and used for identification.
-- **CurseForge** & **Modrinth** icons are used to indicate mod sources.
+Відомості про сторонні компоненти та їхні ліцензії дивіться у [вихідному коді](https://github.com/WER-CORE/CL-OpenSource) й супровідних файлах проєкту.
 
-### General Disclaimer
+## Правова інформація
 
-- **Usage of Libraries:** All third-party libraries and assets are used strictly for functionality.
-- **Monetization:** The launcher is free. We offer paid server promotion (Partners) to cover development costs, which does not restrict end-user functionality.
-
----
-
-## 📞 Support & Contact
-
-If you encountered a bug/problem or you have suggestions:
-
-- 🐛 **Bug reports:** [Issues](https://github.com/WER-CORE/CL-Win-Edition--Update/issues)
-- 💬 **Community:** [Discord Server](https://discord.gg/RhyZjACs2U)
+Clegendary Launcher не є офіційним продуктом Mojang Studios або Microsoft і не пов'язаний із ними. Minecraft та пов'язані торговельні марки належать їхнім правовласникам.
 
 ---
 
-## ⚖️ Disclaimer
+<div align="center">
 
-_This application is not affiliated with Mojang Studios or Microsoft. Minecraft is a trademark of Mojang Synergies AB._
+**Свій до свого по своє. 🇺🇦**
+
+Якщо CL став вам у пригоді, підтримайте проєкт зіркою на [GitHub](https://github.com/WER-CORE/CL-OpenSource).
+
+</div>
