@@ -48,7 +48,7 @@ CL is developed with two user interfaces:
 <div align="center">
   <img width="750" alt="Clegendary Launcher interface screenshot" src="https://github.com/user-attachments/assets/5ced7771-34d4-4cbc-a6ad-2ff1f0d99187" />
   <img width="1200" alt="Clegendary Launcher interface screenshot" src="https://github.com/user-attachments/assets/17e30bad-b199-4439-b832-7d8d59178b1b" />
-  <p><sub>Archive screenshots from version 1.0.0.2R. The current interface may differ.</sub></p>
+  <p><sub>Archive screenshots from version 1.0.0.6R. The current interface may differ.</sub></p>
 </div>
 
 > [!IMPORTANT]
