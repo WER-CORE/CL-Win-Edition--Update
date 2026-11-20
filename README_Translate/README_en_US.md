@@ -4,7 +4,7 @@
 
 **Ukrainian launcher for Minecraft: Java Edition**
 
-[![Latest Release](https://img.shields.io/github/v/release/WER-CORE/CL-Win-Edition--Update?label=Реліз&style=flat-square)](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/WER-CORE/CL-Win-Edition--Update?label=Latest_Release&style=flat-square)](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/WER-CORE/CL-Win-Edition--Update/total?label=Downloads&style=flat-square)](https://github.com/WER-CORE/CL-Win-Edition--Update/releases)
 [![Made in Ukraine](https://img.shields.io/badge/Made_in-Ukraine-0057b7?style=flat-square)](https://github.com/WER-CORE/CL-OpenSource)
 
