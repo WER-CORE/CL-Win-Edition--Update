@@ -40,8 +40,6 @@
 <div align="center">
 <img width="750" alt="Інтерфейс Clegendary Launcher — скриншот 1" src="https://github.com/user-attachments/assets/4f4696dd-031d-4d5f-b564-2b5225a62ace" />
 <img width="750" alt="Інтерфейс Clegendary Launcher — скриншот 2" src="https://github.com/user-attachments/assets/6d77eea0-c810-4a59-a42f-980b633d2ff1" />
-
-  <sub>Архівні скриншоти версії 1.0.0.6R. Інтерфейс актуальних випусків може відрізнятися.</sub>
 </div>
 
 ## Завантаження та встановлення
