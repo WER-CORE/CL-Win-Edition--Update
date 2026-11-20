@@ -40,8 +40,6 @@ We are building Ukrainian software and aiming to make it clean and reliable for 
 <div align="center">
 <img width="750" alt="Clegendary Launcher interface — screenshot 1" src="https://github.com/user-attachments/assets/4f4696dd-031d-4d5f-b564-2b5225a62ace" />
 <img width="750" alt="Clegendary Launcher interface — screenshot 2" src="https://github.com/user-attachments/assets/6d77eea0-c810-4a59-a42f-980b633d2ff1" />
-
-  <sub>Archived screenshots from version 1.0.0.6R. The interface of recent releases may differ.</sub>
 </div>
 
 ## Download and Installation
