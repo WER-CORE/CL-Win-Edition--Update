@@ -8,7 +8,7 @@
 [![Завантаження](https://img.shields.io/github/downloads/WER-CORE/CL-Win-Edition--Update/total?label=Завантаження&style=flat-square)](https://github.com/WER-CORE/CL-Win-Edition--Update/releases)
 [![Український проєкт](https://img.shields.io/badge/Зроблено_в-Україні-0057b7?style=flat-square)](https://github.com/WER-CORE/CL-OpenSource)
 
-[**Завантажити**](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest) · [Вихідний код](https://github.com/WER-CORE/CL-OpenSource) · [Повідомити про проблему](https://github.com/WER-CORE/CL-OpenSource/issues) · [Discord](https://discord.gg/RhyZjACs2U)
+[**Офіційний сайт**](https://cl-launcher.app/) · [**Документація**](https://wiki.cl-launcher.app/) · [**Завантажити**](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest) · [Вихідний код](https://github.com/WER-CORE/CL-OpenSource) · [Повідомити про проблему](https://github.com/WER-CORE/CL-OpenSource/issues) · [Discord](https://discord.gg/RhyZjACs2U)
 
 **Мови README:** [Українська](README.md) · [English](README_Translate/README_en_US.md)  
 Переклади іншими мовами: [долучитися на Crowdin](https://uk.crowdin.com/project/clegendary-launcher)
@@ -38,19 +38,28 @@
 ## Інтерфейс
 
 <div align="center">
-  <img width="750" alt="Інтерфейс Clegendary Launcher — скриншот 1" src="https://github.com/user-attachments/assets/ee937845-e937-4756-8809-577f7342e666" />
-  <img width="750" alt="Інтерфейс Clegendary Launcher — скриншот 2" src="https://github.com/user-attachments/assets/18b91731-1da7-4c08-896b-3acca5e2f92f" />
-
-<sub>Архівні скриншоти версії 1.0.0.6R. Інтерфейс актуальних випусків може відрізнятися.</sub>
-
+<img width="750" alt="Інтерфейс Clegendary Launcher — скриншот 1" src="https://github.com/user-attachments/assets/4f4696dd-031d-4d5f-b564-2b5225a62ace" />
+<img width="750" alt="Інтерфейс Clegendary Launcher — скриншот 2" src="https://github.com/user-attachments/assets/6d77eea0-c810-4a59-a42f-980b633d2ff1" />
 </div>
 
 ## Завантаження та встановлення
 
-1. Відкрийте сторінку [останнього релізу](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest).
-2. Перегляньте опис випуску, список доступних файлів.
-3. Завантажте збірку для своєї операційної системи, якщо вона доступна у випуску.
+1. Відкрийте [офіційний сайт](https://cl-launcher.app/) або сторінку [останнього релізу](https://github.com/WER-CORE/CL-Win-Edition--Update/releases/latest).
+2. Перегляньте опис випуску та список доступних файлів.
+3. Завантажте збірку для своєї операційної системи (усі офіційні збірки є self-contained — окремо встановлювати .NET Runtime не потрібно).
 4. Встановіть або розпакуйте лаунчер відповідно до інструкцій у релізі.
+
+### Linux (Flatpak-репозиторій)
+
+Рекомендований спосіб встановлення на Linux (`x64`) — через власний GPG-підписаний Flatpak-репозиторій CL:
+
+```bash
+flatpak install --user -y https://wer-core.github.io/CL-OpenSource/cl.flatpakref
+```
+
+Оновлення через підключений репозиторій доступні командою `flatpak update io.github.wer_core.cl-opensource` (автоматичне встановлення оновлень залежить від налаштувань вашої системи та центру застосунків).
+
+Як альтернативу на сторінці релізів також можна завантажити **AppImage** (`x64` / `arm64`) або офлайн-пакет **`CLegendaryLauncher-x64.flatpak`** для ручного встановлення.
 
 > [!IMPORTANT]
 > **Безпека завантаження**
@@ -66,22 +75,16 @@
 
 ## Сумісність
 
-Clegendary Launcher доступний у двох версіях, які використовують різні технології інтерфейсу.
+| Wersja          | Windows | Linux | macOS | Статус                            |
+| --------------- | :-----: | :---: | :---: | --------------------------------- |
+| **CL Avalonia** |    ✓    |   ✓   |   ✓   | Актуальна кросплатформена версія  |
+| **CL WPF**      |    ✓    |   —   |   —   | Історична версія лише для Windows |
 
-| Wersja          | Windows | Linux | macOS |
-| --------------- | :-----: | :---: | :---: |
-| **CL Avalonia** |    ✓    |   ✓   |   ✓   |
-| **CL WPF**      |    ✓    |   —   |   —   |
-
-**CL Avalonia** — кросплатформена версія лаунчера, що розробляється на Avalonia UI.
-
-**CL WPF** — версія лаунчера на Windows Presentation Foundation, призначена виключно для Windows.
-
-Доступність окремих функцій може відрізнятися між версіями. Підтримка конкретної операційної системи не гарантує сумісності з усіма версіями Minecraft.
+Доступність окремих функцій може відрізнятися між платформами. Підтримка конкретної операційної системи не гарантує сумісності з усіма версіями Minecraft.
 
 ## Допомога та зворотний зв'язок
 
-Знайшли помилку або маєте пропозицію? Створіть [issue у відкритому репозиторії](https://github.com/WER-CORE/CL-OpenSource/issues) або зверніться до [Discord-спільноти](https://discord.gg/RhyZjACs2U). Для повідомлення про помилку бажано додати версію CL, операційну систему, кроки відтворення.
+Знайшли помилку або маєте пропозицію? Створіть [issue у відкритому репозиторії](https://github.com/WER-CORE/CL-OpenSource/issues) або зверніться до [Discord-спільноти](https://discord.gg/RhyZjACs2U). Для повідомлення про помилку бажано додати версію CL, операційну систему та кроки відтворення.
 Хочете допомогти з локалізацією? Перейдіть на [Crowdin](https://uk.crowdin.com/project/clegendary-launcher).
 
 ## Подяки та ліцензії
